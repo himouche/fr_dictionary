@@ -1,0 +1,8002 @@
+[
+    {
+        "fr": "hausse",
+        "def": "rise, increase | (music, lutherie, bowmaking) frog (of a bow) | inflection of hausser:"
+    },
+    {
+        "fr": "hausse-col",
+        "def": "(historical) gorget, neckpiece"
+    },
+    {
+        "fr": "hausse-cols",
+        "def": "plural of hausse-col"
+    },
+    {
+        "fr": "haussecol",
+        "def": "obsolete form of hausse-col"
+    },
+    {
+        "fr": "haussement",
+        "def": "shrug | raising of the eyebrows"
+    },
+    {
+        "fr": "haussements",
+        "def": "plural of haussement"
+    },
+    {
+        "fr": "haussent",
+        "def": "third-person plural present indicative/subjunctive of hausser"
+    },
+    {
+        "fr": "hausser",
+        "def": "to raise | (only used in hausser les épaules) to shrug"
+    },
+    {
+        "fr": "haussera",
+        "def": "third-person singular future of hausser"
+    },
+    {
+        "fr": "hausserai",
+        "def": "first-person singular future of hausser"
+    },
+    {
+        "fr": "hausseraient",
+        "def": "third-person plural conditional of hausser"
+    },
+    {
+        "fr": "hausserais",
+        "def": "first/second-person singular conditional of hausser"
+    },
+    {
+        "fr": "hausserait",
+        "def": "third-person singular conditional of hausser"
+    },
+    {
+        "fr": "hausseras",
+        "def": "second-person singular future of hausser"
+    },
+    {
+        "fr": "hausserez",
+        "def": "second-person plural future of hausser"
+    },
+    {
+        "fr": "hausseriez",
+        "def": "second-person plural conditional of hausser"
+    },
+    {
+        "fr": "hausserions",
+        "def": "first-person plural conditional of hausser"
+    },
+    {
+        "fr": "hausserons",
+        "def": "first-person plural future of hausser"
+    },
+    {
+        "fr": "hausseront",
+        "def": "third-person plural future of hausser"
+    },
+    {
+        "fr": "hausses",
+        "def": "plural of hausse | second-person singular present indicative/subjunctive of hausser"
+    },
+    {
+        "fr": "haussez",
+        "def": "inflection of hausser:"
+    },
+    {
+        "fr": "haussier",
+        "def": "(finance) bullish"
+    },
+    {
+        "fr": "haussiers",
+        "def": "masculine plural of haussier"
+    },
+    {
+        "fr": "haussiez",
+        "def": "inflection of hausser:"
+    },
+    {
+        "fr": "haussions",
+        "def": "inflection of hausser:"
+    },
+    {
+        "fr": "haussière",
+        "def": "alternative form of aussière | feminine singular of haussier"
+    },
+    {
+        "fr": "haussières",
+        "def": "plural of haussière | feminine plural of haussier"
+    },
+    {
+        "fr": "haussmannien",
+        "def": "Haussmannian"
+    },
+    {
+        "fr": "haussmannienne",
+        "def": "feminine singular of haussmannien"
+    },
+    {
+        "fr": "haussmanniennes",
+        "def": "feminine plural of haussmannien"
+    },
+    {
+        "fr": "haussmanniens",
+        "def": "masculine plural of haussmannien"
+    },
+    {
+        "fr": "haussmannisa",
+        "def": "third-person singular past historic of haussmanniser"
+    },
+    {
+        "fr": "haussmannisai",
+        "def": "first-person singular past historic of haussmanniser"
+    },
+    {
+        "fr": "haussmannisaient",
+        "def": "third-person plural imperfect indicative of haussmanniser"
+    },
+    {
+        "fr": "haussmannisais",
+        "def": "first/second-person singular imperfect indicative of haussmanniser"
+    },
+    {
+        "fr": "haussmannisait",
+        "def": "third-person singular imperfect indicative of haussmanniser"
+    },
+    {
+        "fr": "haussmannisant",
+        "def": "present participle of haussmanniser"
+    },
+    {
+        "fr": "haussmannisas",
+        "def": "second-person singular past historic of haussmanniser"
+    },
+    {
+        "fr": "haussmannisasse",
+        "def": "first-person singular imperfect subjunctive of haussmanniser"
+    },
+    {
+        "fr": "haussmannisassent",
+        "def": "third-person plural imperfect subjunctive of haussmanniser"
+    },
+    {
+        "fr": "haussmannisasses",
+        "def": "second-person singular imperfect subjunctive of haussmanniser"
+    },
+    {
+        "fr": "haussmannisassiez",
+        "def": "second-person plural imperfect subjunctive of haussmanniser"
+    },
+    {
+        "fr": "haussmannisassions",
+        "def": "first-person plural imperfect subjunctive of haussmanniser"
+    },
+    {
+        "fr": "haussmannisation",
+        "def": "Haussmannization"
+    },
+    {
+        "fr": "haussmannisations",
+        "def": "plural of haussmannisation"
+    },
+    {
+        "fr": "haussmannise",
+        "def": "inflection of haussmanniser:"
+    },
+    {
+        "fr": "haussmannisent",
+        "def": "third-person plural present indicative/subjunctive of haussmanniser"
+    },
+    {
+        "fr": "haussmanniser",
+        "def": "to Haussmannize"
+    },
+    {
+        "fr": "haussmannisera",
+        "def": "third-person singular simple future of haussmanniser"
+    },
+    {
+        "fr": "haussmanniserai",
+        "def": "first-person singular simple future of haussmanniser"
+    },
+    {
+        "fr": "haussmanniseraient",
+        "def": "third-person plural conditional of haussmanniser"
+    },
+    {
+        "fr": "haussmanniserais",
+        "def": "first/second-person singular conditional of haussmanniser"
+    },
+    {
+        "fr": "haussmanniserait",
+        "def": "third-person singular conditional of haussmanniser"
+    },
+    {
+        "fr": "haussmanniseras",
+        "def": "second-person singular simple future of haussmanniser"
+    },
+    {
+        "fr": "haussmanniserez",
+        "def": "second-person plural simple future of haussmanniser"
+    },
+    {
+        "fr": "haussmanniseriez",
+        "def": "second-person plural conditional of haussmanniser"
+    },
+    {
+        "fr": "haussmanniserions",
+        "def": "first-person plural conditional of haussmanniser"
+    },
+    {
+        "fr": "haussmanniserons",
+        "def": "first-person plural simple future of haussmanniser"
+    },
+    {
+        "fr": "haussmanniseront",
+        "def": "third-person plural simple future of haussmanniser"
+    },
+    {
+        "fr": "haussmannises",
+        "def": "second-person singular present indicative/subjunctive of haussmanniser"
+    },
+    {
+        "fr": "haussmannisez",
+        "def": "inflection of haussmanniser:"
+    },
+    {
+        "fr": "haussmannisiez",
+        "def": "inflection of haussmanniser:"
+    },
+    {
+        "fr": "haussmannisions",
+        "def": "inflection of haussmanniser:"
+    },
+    {
+        "fr": "haussmannisons",
+        "def": "inflection of haussmanniser:"
+    },
+    {
+        "fr": "haussmannisâmes",
+        "def": "first-person plural past historic of haussmanniser"
+    },
+    {
+        "fr": "haussmannisât",
+        "def": "third-person singular imperfect subjunctive of haussmanniser"
+    },
+    {
+        "fr": "haussmannisâtes",
+        "def": "second-person plural past historic of haussmanniser"
+    },
+    {
+        "fr": "haussmannisèrent",
+        "def": "third-person plural past historic of haussmanniser"
+    },
+    {
+        "fr": "haussmannisé",
+        "def": "past participle of haussmanniser"
+    },
+    {
+        "fr": "haussmannisée",
+        "def": "feminine singular of haussmannisé"
+    },
+    {
+        "fr": "haussmannisées",
+        "def": "feminine plural of haussmannisé"
+    },
+    {
+        "fr": "haussmannisés",
+        "def": "masculine plural of haussmannisé"
+    },
+    {
+        "fr": "haussons",
+        "def": "inflection of hausser:"
+    },
+    {
+        "fr": "haussâmes",
+        "def": "first-person plural past historic of hausser"
+    },
+    {
+        "fr": "haussât",
+        "def": "third-person singular imperfect subjunctive of hausser"
+    },
+    {
+        "fr": "haussâtes",
+        "def": "second-person plural past historic of hausser"
+    },
+    {
+        "fr": "haussèrent",
+        "def": "third-person plural past historic of hausser"
+    },
+    {
+        "fr": "haussé",
+        "def": "past participle of hausser"
+    },
+    {
+        "fr": "haussée",
+        "def": "feminine singular of haussé"
+    },
+    {
+        "fr": "haussées",
+        "def": "feminine plural of haussé"
+    },
+    {
+        "fr": "haussés",
+        "def": "masculine plural of haussé"
+    },
+    {
+        "fr": "haut",
+        "def": "high | tall | early | top"
+    },
+    {
+        "fr": "haut-commissaire",
+        "def": "high commissioner"
+    },
+    {
+        "fr": "haut-de-chausses",
+        "def": "breeches"
+    },
+    {
+        "fr": "haut-de-forme",
+        "def": "Pre-1990 spelling of hauteforme."
+    },
+    {
+        "fr": "haut-goût",
+        "def": "alternative spelling of hautgoût"
+    },
+    {
+        "fr": "haut-le-cœur",
+        "def": "(bout of) retching, gagging"
+    },
+    {
+        "fr": "haut-parleur",
+        "def": "loudspeaker"
+    },
+    {
+        "fr": "haut-parleurs",
+        "def": "plural of haut-parleur"
+    },
+    {
+        "fr": "haut-relief",
+        "def": "(sculpture) high relief"
+    },
+    {
+        "fr": "haut-savoyard",
+        "def": "(relational) of Haute-Savoie"
+    },
+    {
+        "fr": "hautain",
+        "def": "haughty, supercilious"
+    },
+    {
+        "fr": "hautaine",
+        "def": "feminine singular of hautain"
+    },
+    {
+        "fr": "hautainement",
+        "def": "haughtily, superciliously"
+    },
+    {
+        "fr": "hautaines",
+        "def": "feminine plural of hautain"
+    },
+    {
+        "fr": "hautaineté",
+        "def": "haughtiness"
+    },
+    {
+        "fr": "hautainetés",
+        "def": "plural of hautaineté"
+    },
+    {
+        "fr": "hautains",
+        "def": "masculine plural of hautain"
+    },
+    {
+        "fr": "hautbois",
+        "def": "oboe | oboist"
+    },
+    {
+        "fr": "hautboïste",
+        "def": "oboist"
+    },
+    {
+        "fr": "hautboïstes",
+        "def": "plural of hautboïste"
+    },
+    {
+        "fr": "haute",
+        "def": "feminine singular of haut | (sarcastic) high society"
+    },
+    {
+        "fr": "haute-contre",
+        "def": "(baroque music jargon) The highest of the male modal voices. Only specified as a separate voice part in French Baroque repertoire."
+    },
+    {
+        "fr": "haute-fidélité",
+        "def": "high fidelity"
+    },
+    {
+        "fr": "hauteforme",
+        "def": "top hat"
+    },
+    {
+        "fr": "hauteformes",
+        "def": "plural of hauteforme"
+    },
+    {
+        "fr": "hautement",
+        "def": "highly, very"
+    },
+    {
+        "fr": "hautes",
+        "def": "feminine plural of haut"
+    },
+    {
+        "fr": "hautesse",
+        "def": "The title given to a sultan"
+    },
+    {
+        "fr": "hauteur",
+        "def": "height, altitude | arrogance | (geometry) height | (music) pitch"
+    },
+    {
+        "fr": "hauteurs",
+        "def": "plural of hauteur"
+    },
+    {
+        "fr": "hautgoût",
+        "def": "haut gout"
+    },
+    {
+        "fr": "hauts",
+        "def": "masculine plural of haut"
+    },
+    {
+        "fr": "hauts-de-chausses",
+        "def": "plural of haut-de-chausses"
+    },
+    {
+        "fr": "hauts-de-forme",
+        "def": "plural of haut-de-forme"
+    },
+    {
+        "fr": "hauturier",
+        "def": "high-sea"
+    },
+    {
+        "fr": "hauturiers",
+        "def": "masculine plural of hauturier"
+    },
+    {
+        "fr": "hauturière",
+        "def": "feminine singular of hauturier"
+    },
+    {
+        "fr": "hauturières",
+        "def": "feminine plural of hauturier"
+    },
+    {
+        "fr": "havanais",
+        "def": "Havanan"
+    },
+    {
+        "fr": "havanaise",
+        "def": "feminine singular of havanais"
+    },
+    {
+        "fr": "havanaises",
+        "def": "feminine plural of havanais"
+    },
+    {
+        "fr": "havane",
+        "def": "Havana cigar"
+    },
+    {
+        "fr": "havanes",
+        "def": "plural of havane"
+    },
+    {
+        "fr": "havant",
+        "def": "present participle of havoir"
+    },
+    {
+        "fr": "haveur",
+        "def": "a miner who loosens rock and minerals in a mine, hewer"
+    },
+    {
+        "fr": "havez",
+        "def": "second-person plural present active indicative of havoir"
+    },
+    {
+        "fr": "havi",
+        "def": "past participle of havir"
+    },
+    {
+        "fr": "havie",
+        "def": "feminine singular of havi"
+    },
+    {
+        "fr": "havies",
+        "def": "feminine plural of havi"
+    },
+    {
+        "fr": "havir",
+        "def": "to singe"
+    },
+    {
+        "fr": "havira",
+        "def": "third-person singular simple future of havir"
+    },
+    {
+        "fr": "havirai",
+        "def": "first-person singular simple future of havir"
+    },
+    {
+        "fr": "haviraient",
+        "def": "third-person plural conditional of havir"
+    },
+    {
+        "fr": "havirais",
+        "def": "first/second-person singular conditional of havir"
+    },
+    {
+        "fr": "havirait",
+        "def": "third-person singular conditional of havir"
+    },
+    {
+        "fr": "haviras",
+        "def": "second-person singular simple future of havir"
+    },
+    {
+        "fr": "havirent",
+        "def": "third-person plural past historic of havir"
+    },
+    {
+        "fr": "havirez",
+        "def": "second-person plural simple future of havir"
+    },
+    {
+        "fr": "haviriez",
+        "def": "second-person plural conditional of havir"
+    },
+    {
+        "fr": "havirions",
+        "def": "first-person plural conditional of havir"
+    },
+    {
+        "fr": "havirons",
+        "def": "first-person plural simple future of havir"
+    },
+    {
+        "fr": "haviront",
+        "def": "third-person plural simple future of havir"
+    },
+    {
+        "fr": "havis",
+        "def": "inflection of havir: | masculine plural of havi"
+    },
+    {
+        "fr": "havissaient",
+        "def": "third-person plural imperfect indicative of havir"
+    },
+    {
+        "fr": "havissais",
+        "def": "first/second-person singular imperfect indicative of havir"
+    },
+    {
+        "fr": "havissait",
+        "def": "third-person singular imperfect indicative of havir"
+    },
+    {
+        "fr": "havissant",
+        "def": "present participle of havir"
+    },
+    {
+        "fr": "havisse",
+        "def": "inflection of havir:"
+    },
+    {
+        "fr": "havissent",
+        "def": "inflection of havir:"
+    },
+    {
+        "fr": "havisses",
+        "def": "second-person singular present/imperfect subjunctive of havir"
+    },
+    {
+        "fr": "havissez",
+        "def": "inflection of havir:"
+    },
+    {
+        "fr": "havissiez",
+        "def": "inflection of havir:"
+    },
+    {
+        "fr": "havissions",
+        "def": "inflection of havir:"
+    },
+    {
+        "fr": "havissons",
+        "def": "inflection of havir:"
+    },
+    {
+        "fr": "havit",
+        "def": "inflection of havir:"
+    },
+    {
+        "fr": "havoir",
+        "def": "(obsolete) rare spelling of avoir"
+    },
+    {
+        "fr": "havons",
+        "def": "first-person plural present active indicative of havoir"
+    },
+    {
+        "fr": "havrais",
+        "def": "of, from or relating to the port city of Le Havre, Seine-Maritime department, Normandy, France"
+    },
+    {
+        "fr": "havraise",
+        "def": "feminine singular of havrais"
+    },
+    {
+        "fr": "havraises",
+        "def": "feminine plural of havrais"
+    },
+    {
+        "fr": "havre",
+        "def": "(archaic or dialectal) harbour (UK, Ireland, and the Commonwealth) / harbor (US) | haven"
+    },
+    {
+        "fr": "havres",
+        "def": "plural of havre"
+    },
+    {
+        "fr": "havresac",
+        "def": "haversack"
+    },
+    {
+        "fr": "havresacs",
+        "def": "plural of havresac"
+    },
+    {
+        "fr": "havîmes",
+        "def": "first-person plural past historic of havir"
+    },
+    {
+        "fr": "havît",
+        "def": "third-person singular imperfect subjunctive of havir"
+    },
+    {
+        "fr": "havîtes",
+        "def": "second-person plural past historic of havir"
+    },
+    {
+        "fr": "hawaiien",
+        "def": "alternative spelling of hawaïen"
+    },
+    {
+        "fr": "hawaiienne",
+        "def": "feminine singular of hawaiien"
+    },
+    {
+        "fr": "hawaiiennes",
+        "def": "feminine plural of hawaiien"
+    },
+    {
+        "fr": "hawaiiens",
+        "def": "masculine plural of hawaiien"
+    },
+    {
+        "fr": "hawaïen",
+        "def": "Hawaiian | Hawaiian, the Hawaiian language"
+    },
+    {
+        "fr": "hawaïenne",
+        "def": "feminine singular of hawaïen"
+    },
+    {
+        "fr": "hawaïennes",
+        "def": "feminine plural of hawaïen"
+    },
+    {
+        "fr": "hawaïens",
+        "def": "masculine plural of hawaïen"
+    },
+    {
+        "fr": "hayant",
+        "def": "present participle of havoir"
+    },
+    {
+        "fr": "haydnien",
+        "def": "Haydnian"
+    },
+    {
+        "fr": "hayir",
+        "def": "(transitive) obsolete spelling of haïr"
+    },
+    {
+        "fr": "hayon",
+        "def": "hatchback"
+    },
+    {
+        "fr": "hayons",
+        "def": "plural of hayon"
+    },
+    {
+        "fr": "hazard",
+        "def": "archaic spelling of hasard, chiefly used before 1800"
+    },
+    {
+        "fr": "hazards",
+        "def": "plural of hazard"
+    },
+    {
+        "fr": "haï",
+        "def": "past participle of haïr"
+    },
+    {
+        "fr": "haïda",
+        "def": "Haida (language) | (relational) Haida"
+    },
+    {
+        "fr": "haïdamak",
+        "def": "haydamak"
+    },
+    {
+        "fr": "haïe",
+        "def": "feminine singular of the past participle of haïr | a wagoner's cry to make their horses move faster; giddyup"
+    },
+    {
+        "fr": "haïes",
+        "def": "feminine plural of the past participle of haïr"
+    },
+    {
+        "fr": "haïk",
+        "def": "haik"
+    },
+    {
+        "fr": "haïkaï",
+        "def": "haikai"
+    },
+    {
+        "fr": "haïkiste",
+        "def": "a haikuist, a haiku writer"
+    },
+    {
+        "fr": "haïku",
+        "def": "haiku (Japanese poem)"
+    },
+    {
+        "fr": "haïkus",
+        "def": "plural of haïku"
+    },
+    {
+        "fr": "haïmes",
+        "def": "first-person plural past historic of haïr"
+    },
+    {
+        "fr": "haïr",
+        "def": "(transitive) to hate"
+    },
+    {
+        "fr": "haïra",
+        "def": "third-person singular future of haïr"
+    },
+    {
+        "fr": "haïrai",
+        "def": "first-person singular future of haïr"
+    },
+    {
+        "fr": "haïraient",
+        "def": "third-person plural conditional of haïr"
+    },
+    {
+        "fr": "haïrais",
+        "def": "first/second-person singular conditional of haïr"
+    },
+    {
+        "fr": "haïrait",
+        "def": "third-person singular conditional of haïr"
+    },
+    {
+        "fr": "haïras",
+        "def": "second-person singular future of haïr"
+    },
+    {
+        "fr": "haïrent",
+        "def": "third-person plural past historic of haïr"
+    },
+    {
+        "fr": "haïrez",
+        "def": "second-person plural future of haïr"
+    },
+    {
+        "fr": "haïriez",
+        "def": "second-person plural conditional of haïr"
+    },
+    {
+        "fr": "haïrions",
+        "def": "first-person plural conditional of haïr"
+    },
+    {
+        "fr": "haïrons",
+        "def": "first-person plural future of haïr"
+    },
+    {
+        "fr": "haïront",
+        "def": "third-person plural future of haïr"
+    },
+    {
+        "fr": "haïs",
+        "def": "first/second-person singular past historic of haïr | (Canada) first/second-person singular present indicative of haïr | masculine plural of the past participle of haïr"
+    },
+    {
+        "fr": "haïssable",
+        "def": "hatable, detestable, insufferable, unbearable, worthy of being hated | (chiefly Quebec) mischievous"
+    },
+    {
+        "fr": "haïssables",
+        "def": "plural of haïssable"
+    },
+    {
+        "fr": "haïssaient",
+        "def": "third-person plural imperfect indicative of haïr"
+    },
+    {
+        "fr": "haïssais",
+        "def": "first/second-person singular imperfect indicative of haïr"
+    },
+    {
+        "fr": "haïssait",
+        "def": "third-person singular imperfect indicative of haïr"
+    },
+    {
+        "fr": "haïssant",
+        "def": "present participle of haïr"
+    },
+    {
+        "fr": "haïsse",
+        "def": "inflection of haïr:"
+    },
+    {
+        "fr": "haïssent",
+        "def": "inflection of haïr:"
+    },
+    {
+        "fr": "haïsses",
+        "def": "second-person singular present/imperfect subjunctive of haïr"
+    },
+    {
+        "fr": "haïsseur",
+        "def": "one who hates; a hater"
+    },
+    {
+        "fr": "haïsseurs",
+        "def": "plural of haïsseur"
+    },
+    {
+        "fr": "haïsseuse",
+        "def": "female equivalent of haïsseur"
+    },
+    {
+        "fr": "haïsseuses",
+        "def": "feminine plural of haïsseur"
+    },
+    {
+        "fr": "haïssez",
+        "def": "inflection of haïr:"
+    },
+    {
+        "fr": "haïssiez",
+        "def": "inflection of haïr:"
+    },
+    {
+        "fr": "haïssions",
+        "def": "inflection of haïr:"
+    },
+    {
+        "fr": "haïssons",
+        "def": "inflection of haïr:"
+    },
+    {
+        "fr": "haït",
+        "def": "inflection of haïr: | (Canada) third-person singular present indicative of haïr"
+    },
+    {
+        "fr": "haïtes",
+        "def": "second-person plural past historic of haïr"
+    },
+    {
+        "fr": "haïtien",
+        "def": "(relational) of Haiti; Haitian | Haitian, the Haitian language"
+    },
+    {
+        "fr": "haïtienne",
+        "def": "feminine singular of haïtien"
+    },
+    {
+        "fr": "haïtiennes",
+        "def": "feminine plural of haïtien"
+    },
+    {
+        "fr": "haïtiens",
+        "def": "masculine plural of haïtien"
+    },
+    {
+        "fr": "haüynite",
+        "def": "(mineralogy) haüynite"
+    },
+    {
+        "fr": "hchouma",
+        "def": "(slang) which causes shame, scandal."
+    },
+    {
+        "fr": "heaume",
+        "def": "(historical, heraldry) a mediaeval military helmet protecting the head and face | (obsolete) any helmet"
+    },
+    {
+        "fr": "heaumes",
+        "def": "plural of heaume"
+    },
+    {
+        "fr": "hebdo",
+        "def": "(colloquial) weekly newspaper, journal, or other publication"
+    },
+    {
+        "fr": "hebdomadaire",
+        "def": "weekly | weekly magazine"
+    },
+    {
+        "fr": "hebdomadairement",
+        "def": "weekly (once every week)"
+    },
+    {
+        "fr": "hebdomadaires",
+        "def": "plural of hebdomadaire"
+    },
+    {
+        "fr": "hebdomadier",
+        "def": "hebdomadary"
+    },
+    {
+        "fr": "hebdomadiers",
+        "def": "plural of hebdomadier"
+    },
+    {
+        "fr": "hebdos",
+        "def": "plural of hebdo"
+    },
+    {
+        "fr": "hebs",
+        "def": "(slang) prison, can"
+    },
+    {
+        "fr": "hectara",
+        "def": "third-person singular past historic of hectarer"
+    },
+    {
+        "fr": "hectarai",
+        "def": "first-person singular past historic of hectarer"
+    },
+    {
+        "fr": "hectaraient",
+        "def": "third-person plural imperfect indicative of hectarer"
+    },
+    {
+        "fr": "hectarais",
+        "def": "first/second-person singular imperfect indicative of hectarer"
+    },
+    {
+        "fr": "hectarait",
+        "def": "third-person singular imperfect indicative of hectarer"
+    },
+    {
+        "fr": "hectarant",
+        "def": "present participle of hectarer"
+    },
+    {
+        "fr": "hectaras",
+        "def": "second-person singular past historic of hectarer"
+    },
+    {
+        "fr": "hectarasse",
+        "def": "first-person singular imperfect subjunctive of hectarer"
+    },
+    {
+        "fr": "hectarassent",
+        "def": "third-person plural imperfect subjunctive of hectarer"
+    },
+    {
+        "fr": "hectarasses",
+        "def": "second-person singular imperfect subjunctive of hectarer"
+    },
+    {
+        "fr": "hectarassiez",
+        "def": "second-person plural imperfect subjunctive of hectarer"
+    },
+    {
+        "fr": "hectarassions",
+        "def": "first-person plural imperfect subjunctive of hectarer"
+    },
+    {
+        "fr": "hectare",
+        "def": "hectare | inflection of hectarer:"
+    },
+    {
+        "fr": "hectarent",
+        "def": "third-person plural present indicative/subjunctive of hectarer"
+    },
+    {
+        "fr": "hectarer",
+        "def": "to measure an area in hectares"
+    },
+    {
+        "fr": "hectarera",
+        "def": "third-person singular simple future of hectarer"
+    },
+    {
+        "fr": "hectarerai",
+        "def": "first-person singular simple future of hectarer"
+    },
+    {
+        "fr": "hectareraient",
+        "def": "third-person plural conditional of hectarer"
+    },
+    {
+        "fr": "hectarerais",
+        "def": "first/second-person singular conditional of hectarer"
+    },
+    {
+        "fr": "hectarerait",
+        "def": "third-person singular conditional of hectarer"
+    },
+    {
+        "fr": "hectareras",
+        "def": "second-person singular simple future of hectarer"
+    },
+    {
+        "fr": "hectarerez",
+        "def": "second-person plural simple future of hectarer"
+    },
+    {
+        "fr": "hectareriez",
+        "def": "second-person plural conditional of hectarer"
+    },
+    {
+        "fr": "hectarerions",
+        "def": "first-person plural conditional of hectarer"
+    },
+    {
+        "fr": "hectarerons",
+        "def": "first-person plural simple future of hectarer"
+    },
+    {
+        "fr": "hectareront",
+        "def": "third-person plural simple future of hectarer"
+    },
+    {
+        "fr": "hectares",
+        "def": "second-person singular present indicative/subjunctive of hectarer"
+    },
+    {
+        "fr": "hectarez",
+        "def": "inflection of hectarer:"
+    },
+    {
+        "fr": "hectariez",
+        "def": "inflection of hectarer:"
+    },
+    {
+        "fr": "hectarions",
+        "def": "inflection of hectarer:"
+    },
+    {
+        "fr": "hectarons",
+        "def": "inflection of hectarer:"
+    },
+    {
+        "fr": "hectarâmes",
+        "def": "first-person plural past historic of hectarer"
+    },
+    {
+        "fr": "hectarât",
+        "def": "third-person singular imperfect subjunctive of hectarer"
+    },
+    {
+        "fr": "hectarâtes",
+        "def": "second-person plural past historic of hectarer"
+    },
+    {
+        "fr": "hectarèrent",
+        "def": "third-person plural past historic of hectarer"
+    },
+    {
+        "fr": "hectaré",
+        "def": "past participle of hectarer"
+    },
+    {
+        "fr": "hectarée",
+        "def": "feminine singular of hectaré"
+    },
+    {
+        "fr": "hectarées",
+        "def": "feminine plural of hectaré"
+    },
+    {
+        "fr": "hectarés",
+        "def": "masculine plural of hectaré"
+    },
+    {
+        "fr": "hectique",
+        "def": "(medicine) hectic | (medicine) alternative form of étique"
+    },
+    {
+        "fr": "hectiques",
+        "def": "plural of hectique"
+    },
+    {
+        "fr": "hecto",
+        "def": "hectolitre"
+    },
+    {
+        "fr": "hectogramme",
+        "def": "hectogram"
+    },
+    {
+        "fr": "hectokatal",
+        "def": "hectokatal"
+    },
+    {
+        "fr": "hectokatals",
+        "def": "plural of hectokatal"
+    },
+    {
+        "fr": "hectokataux",
+        "def": "plural of hectokatal"
+    },
+    {
+        "fr": "hectolitre",
+        "def": "hectolitre"
+    },
+    {
+        "fr": "hectolitres",
+        "def": "plural of hectolitre"
+    },
+    {
+        "fr": "hectomètre",
+        "def": "hectometre (UK) / hectometer (US)"
+    },
+    {
+        "fr": "hectomètres",
+        "def": "plural of hectomètre"
+    },
+    {
+        "fr": "hectométrique",
+        "def": "hectometric"
+    },
+    {
+        "fr": "hectopascal",
+        "def": "hectopascal"
+    },
+    {
+        "fr": "hectos",
+        "def": "plural of hecto"
+    },
+    {
+        "fr": "hectowatt",
+        "def": "a unit of power equal to 100 watts"
+    },
+    {
+        "fr": "hectowatts",
+        "def": "plural of hectowatt"
+    },
+    {
+        "fr": "heiduque",
+        "def": "hajduk"
+    },
+    {
+        "fr": "hein",
+        "def": "huh, hey, eh"
+    },
+    {
+        "fr": "helladique",
+        "def": "Helladic"
+    },
+    {
+        "fr": "hello",
+        "def": "(anglicism) hello, hi"
+    },
+    {
+        "fr": "hellène",
+        "def": "Hellenic"
+    },
+    {
+        "fr": "hellènes",
+        "def": "plural of hellène"
+    },
+    {
+        "fr": "hellébore",
+        "def": "alternative form of ellébore"
+    },
+    {
+        "fr": "hellébores",
+        "def": "plural of hellébore"
+    },
+    {
+        "fr": "helléborine",
+        "def": "helleborine | (organic chemistry) helleborin"
+    },
+    {
+        "fr": "helléborines",
+        "def": "plural of helléborine"
+    },
+    {
+        "fr": "hellénique",
+        "def": "Hellenic"
+    },
+    {
+        "fr": "helléniques",
+        "def": "plural of hellénique"
+    },
+    {
+        "fr": "hellénisa",
+        "def": "third-person singular past historic of helléniser"
+    },
+    {
+        "fr": "hellénisai",
+        "def": "first-person singular past historic of helléniser"
+    },
+    {
+        "fr": "hellénisaient",
+        "def": "third-person plural imperfect indicative of helléniser"
+    },
+    {
+        "fr": "hellénisais",
+        "def": "first/second-person singular imperfect indicative of helléniser"
+    },
+    {
+        "fr": "hellénisait",
+        "def": "third-person singular imperfect indicative of helléniser"
+    },
+    {
+        "fr": "hellénisant",
+        "def": "present participle of helléniser | Hellenizing; Hellenized | Hellenist"
+    },
+    {
+        "fr": "hellénisas",
+        "def": "second-person singular past historic of helléniser"
+    },
+    {
+        "fr": "hellénisasse",
+        "def": "first-person singular imperfect subjunctive of helléniser"
+    },
+    {
+        "fr": "hellénisassent",
+        "def": "third-person plural imperfect subjunctive of helléniser"
+    },
+    {
+        "fr": "hellénisasses",
+        "def": "second-person singular imperfect subjunctive of helléniser"
+    },
+    {
+        "fr": "hellénisassiez",
+        "def": "second-person plural imperfect subjunctive of helléniser"
+    },
+    {
+        "fr": "hellénisassions",
+        "def": "first-person plural imperfect subjunctive of helléniser"
+    },
+    {
+        "fr": "hellénisation",
+        "def": "Hellenisation"
+    },
+    {
+        "fr": "hellénise",
+        "def": "inflection of helléniser:"
+    },
+    {
+        "fr": "hellénisent",
+        "def": "third-person plural present indicative/subjunctive of helléniser"
+    },
+    {
+        "fr": "helléniser",
+        "def": "to Hellenize"
+    },
+    {
+        "fr": "hellénisera",
+        "def": "third-person singular simple future of helléniser"
+    },
+    {
+        "fr": "helléniserai",
+        "def": "first-person singular simple future of helléniser"
+    },
+    {
+        "fr": "helléniseraient",
+        "def": "third-person plural conditional of helléniser"
+    },
+    {
+        "fr": "helléniserais",
+        "def": "first/second-person singular conditional of helléniser"
+    },
+    {
+        "fr": "helléniserait",
+        "def": "third-person singular conditional of helléniser"
+    },
+    {
+        "fr": "helléniseras",
+        "def": "second-person singular simple future of helléniser"
+    },
+    {
+        "fr": "helléniserez",
+        "def": "second-person plural simple future of helléniser"
+    },
+    {
+        "fr": "helléniseriez",
+        "def": "second-person plural conditional of helléniser"
+    },
+    {
+        "fr": "helléniserions",
+        "def": "first-person plural conditional of helléniser"
+    },
+    {
+        "fr": "helléniserons",
+        "def": "first-person plural simple future of helléniser"
+    },
+    {
+        "fr": "helléniseront",
+        "def": "third-person plural simple future of helléniser"
+    },
+    {
+        "fr": "hellénises",
+        "def": "second-person singular present indicative/subjunctive of helléniser"
+    },
+    {
+        "fr": "hellénisez",
+        "def": "inflection of helléniser:"
+    },
+    {
+        "fr": "hellénisiez",
+        "def": "inflection of helléniser:"
+    },
+    {
+        "fr": "hellénisions",
+        "def": "inflection of helléniser:"
+    },
+    {
+        "fr": "hellénisme",
+        "def": "Hellenism"
+    },
+    {
+        "fr": "hellénismes",
+        "def": "plural of hellénisme"
+    },
+    {
+        "fr": "hellénisons",
+        "def": "inflection of helléniser:"
+    },
+    {
+        "fr": "helléniste",
+        "def": "Hellenist"
+    },
+    {
+        "fr": "hellénistes",
+        "def": "plural of helléniste"
+    },
+    {
+        "fr": "hellénistique",
+        "def": "Hellenistic"
+    },
+    {
+        "fr": "hellénistiques",
+        "def": "plural of hellénistique"
+    },
+    {
+        "fr": "hellénisâmes",
+        "def": "first-person plural past historic of helléniser"
+    },
+    {
+        "fr": "hellénisât",
+        "def": "third-person singular imperfect subjunctive of helléniser"
+    },
+    {
+        "fr": "hellénisâtes",
+        "def": "second-person plural past historic of helléniser"
+    },
+    {
+        "fr": "hellénisèrent",
+        "def": "third-person plural past historic of helléniser"
+    },
+    {
+        "fr": "hellénisé",
+        "def": "past participle of helléniser"
+    },
+    {
+        "fr": "hellénisée",
+        "def": "feminine singular of hellénisé"
+    },
+    {
+        "fr": "hellénisées",
+        "def": "feminine plural of hellénisé"
+    },
+    {
+        "fr": "hellénisés",
+        "def": "masculine plural of hellénisé"
+    },
+    {
+        "fr": "hellénophone",
+        "def": "hellenophone"
+    },
+    {
+        "fr": "hellénophones",
+        "def": "plural of hellénophone"
+    },
+    {
+        "fr": "helminthe",
+        "def": "helminth"
+    },
+    {
+        "fr": "helminthiase",
+        "def": "helminthiasis"
+    },
+    {
+        "fr": "helminthique",
+        "def": "helminthic"
+    },
+    {
+        "fr": "helminthiques",
+        "def": "plural of helminthique"
+    },
+    {
+        "fr": "helmintique",
+        "def": "helminthic"
+    },
+    {
+        "fr": "helmintiques",
+        "def": "plural of helmintique"
+    },
+    {
+        "fr": "helvelle",
+        "def": "elfin saddle"
+    },
+    {
+        "fr": "helvète",
+        "def": "Swiss"
+    },
+    {
+        "fr": "helvètes",
+        "def": "plural of helvète"
+    },
+    {
+        "fr": "helvéticité",
+        "def": "Swissness"
+    },
+    {
+        "fr": "helvétique",
+        "def": "Swiss"
+    },
+    {
+        "fr": "helvétiques",
+        "def": "plural of helvétique"
+    },
+    {
+        "fr": "helvétiser",
+        "def": "to Helvetize or Helveticize, to make Swiss"
+    },
+    {
+        "fr": "helvétisme",
+        "def": "Helvetism (A word or phrase typically used in Switzerland)"
+    },
+    {
+        "fr": "helvétismes",
+        "def": "plural of helvétisme"
+    },
+    {
+        "fr": "hem",
+        "def": "interjection expressing doubt and/or hesitation"
+    },
+    {
+        "fr": "hemingwayen",
+        "def": "nonstandard form of hémingwayen"
+    },
+    {
+        "fr": "hemingwayenne",
+        "def": "feminine singular of hemingwayen"
+    },
+    {
+        "fr": "hemingwayennes",
+        "def": "feminine plural of hemingwayen"
+    },
+    {
+        "fr": "hemingwayens",
+        "def": "masculine plural of hemingwayen"
+    },
+    {
+        "fr": "hemiptère",
+        "def": "hemipter"
+    },
+    {
+        "fr": "hemiptères",
+        "def": "plural of hemiptère"
+    },
+    {
+        "fr": "hemisphære",
+        "def": "obsolete form of hémisphère"
+    },
+    {
+        "fr": "hemisphæres",
+        "def": "plural of hemisphære"
+    },
+    {
+        "fr": "hendek",
+        "def": "(slang) cop, policeman"
+    },
+    {
+        "fr": "hendeks",
+        "def": "plural of hendek"
+    },
+    {
+        "fr": "hendiadyin",
+        "def": "alternative form of hendiadys"
+    },
+    {
+        "fr": "hendiadyins",
+        "def": "plural of hendiadyin"
+    },
+    {
+        "fr": "hendiadys",
+        "def": "(rhetoric) hendiadys"
+    },
+    {
+        "fr": "hendécagone",
+        "def": "(geometry) hendecagon"
+    },
+    {
+        "fr": "hendécagones",
+        "def": "plural of hendécagone"
+    },
+    {
+        "fr": "hendécasyllabe",
+        "def": "hendecasyllabic"
+    },
+    {
+        "fr": "hendécasyllabes",
+        "def": "plural of hendécasyllabe"
+    },
+    {
+        "fr": "henni",
+        "def": "past participle of hennir"
+    },
+    {
+        "fr": "hennie",
+        "def": "feminine singular of henni"
+    },
+    {
+        "fr": "hennies",
+        "def": "feminine plural of henni"
+    },
+    {
+        "fr": "hennin",
+        "def": "hennin"
+    },
+    {
+        "fr": "hennins",
+        "def": "plural of hennin"
+    },
+    {
+        "fr": "hennir",
+        "def": "(intransitive) to neigh or whinny"
+    },
+    {
+        "fr": "hennira",
+        "def": "third-person singular simple future of hennir"
+    },
+    {
+        "fr": "hennirai",
+        "def": "first-person singular simple future of hennir"
+    },
+    {
+        "fr": "henniraient",
+        "def": "third-person plural conditional of hennir"
+    },
+    {
+        "fr": "hennirais",
+        "def": "first/second-person singular conditional of hennir"
+    },
+    {
+        "fr": "hennirait",
+        "def": "third-person singular conditional of hennir"
+    },
+    {
+        "fr": "henniras",
+        "def": "second-person singular simple future of hennir"
+    },
+    {
+        "fr": "hennirent",
+        "def": "third-person plural past historic of hennir"
+    },
+    {
+        "fr": "hennirez",
+        "def": "second-person plural simple future of hennir"
+    },
+    {
+        "fr": "henniriez",
+        "def": "second-person plural conditional of hennir"
+    },
+    {
+        "fr": "hennirions",
+        "def": "first-person plural conditional of hennir"
+    },
+    {
+        "fr": "hennirons",
+        "def": "first-person plural simple future of hennir"
+    },
+    {
+        "fr": "henniront",
+        "def": "third-person plural simple future of hennir"
+    },
+    {
+        "fr": "hennis",
+        "def": "inflection of hennir: | masculine plural of henni"
+    },
+    {
+        "fr": "hennissaient",
+        "def": "third-person plural imperfect indicative of hennir"
+    },
+    {
+        "fr": "hennissais",
+        "def": "first/second-person singular imperfect indicative of hennir"
+    },
+    {
+        "fr": "hennissait",
+        "def": "third-person singular imperfect indicative of hennir"
+    },
+    {
+        "fr": "hennissant",
+        "def": "present participle of hennir"
+    },
+    {
+        "fr": "hennisse",
+        "def": "inflection of hennir:"
+    },
+    {
+        "fr": "hennissement",
+        "def": "neigh (the cry of a horse)"
+    },
+    {
+        "fr": "hennissements",
+        "def": "plural of hennissement"
+    },
+    {
+        "fr": "hennissent",
+        "def": "inflection of hennir:"
+    },
+    {
+        "fr": "hennisses",
+        "def": "second-person singular present/imperfect subjunctive of hennir"
+    },
+    {
+        "fr": "hennissez",
+        "def": "inflection of hennir:"
+    },
+    {
+        "fr": "hennissiez",
+        "def": "inflection of hennir:"
+    },
+    {
+        "fr": "hennissions",
+        "def": "inflection of hennir:"
+    },
+    {
+        "fr": "hennissons",
+        "def": "inflection of hennir:"
+    },
+    {
+        "fr": "hennit",
+        "def": "inflection of hennir:"
+    },
+    {
+        "fr": "hennuyer",
+        "def": "(relational) of Hainaut"
+    },
+    {
+        "fr": "hennuyers",
+        "def": "masculine plural of hennuyer"
+    },
+    {
+        "fr": "hennuyère",
+        "def": "feminine singular of hennuyer"
+    },
+    {
+        "fr": "hennuyères",
+        "def": "feminine plural of hennuyer"
+    },
+    {
+        "fr": "henné",
+        "def": "henna (Lawsonia inermis)"
+    },
+    {
+        "fr": "hennés",
+        "def": "plural of henné"
+    },
+    {
+        "fr": "hennîmes",
+        "def": "first-person plural past historic of hennir"
+    },
+    {
+        "fr": "hennît",
+        "def": "third-person singular imperfect subjunctive of hennir"
+    },
+    {
+        "fr": "hennîtes",
+        "def": "second-person plural past historic of hennir"
+    },
+    {
+        "fr": "henry",
+        "def": "(sciences) henry"
+    },
+    {
+        "fr": "hentai",
+        "def": "hentai (a work of anime or manga—Japanese cartoon art, respectively animated and static—that contains pornography)"
+    },
+    {
+        "fr": "hentais",
+        "def": "plural of hentai"
+    },
+    {
+        "fr": "hentriacontanoïque",
+        "def": "(organic chemistry) hentriacontanoic"
+    },
+    {
+        "fr": "hentriacontanoïques",
+        "def": "plural of hentriacontanoïque"
+    },
+    {
+        "fr": "hentriacontylique",
+        "def": "(organic chemistry) synonym of hentriacontanoïque"
+    },
+    {
+        "fr": "hentriacontyliques",
+        "def": "plural of hentriacontylique"
+    },
+    {
+        "fr": "hepcidine",
+        "def": "(biochemistry) hepcidin"
+    },
+    {
+        "fr": "hepcidines",
+        "def": "plural of hepcidine"
+    },
+    {
+        "fr": "heptacosanoïque",
+        "def": "(organic chemistry) heptacosanoic"
+    },
+    {
+        "fr": "heptacosanoïques",
+        "def": "plural of heptacosanoïque"
+    },
+    {
+        "fr": "heptacène",
+        "def": "(organic chemistry) heptacene"
+    },
+    {
+        "fr": "heptacènes",
+        "def": "plural of heptacène"
+    },
+    {
+        "fr": "heptadécane",
+        "def": "(organic chemistry) heptadecane"
+    },
+    {
+        "fr": "heptadécanes",
+        "def": "plural of heptadécane"
+    },
+    {
+        "fr": "heptadécanoïque",
+        "def": "(organic chemistry) heptadecanoic"
+    },
+    {
+        "fr": "heptadécanoïques",
+        "def": "plural of heptadécanoïque"
+    },
+    {
+        "fr": "heptafluorure",
+        "def": "(inorganic chemistry) heptafluoride"
+    },
+    {
+        "fr": "heptafluorures",
+        "def": "plural of heptafluorure"
+    },
+    {
+        "fr": "heptagonal",
+        "def": "heptagonal"
+    },
+    {
+        "fr": "heptagone",
+        "def": "heptagon (a polygon with seven sides and seven angles)"
+    },
+    {
+        "fr": "heptagones",
+        "def": "plural of heptagone"
+    },
+    {
+        "fr": "heptagyne",
+        "def": "(botany) heptagynous"
+    },
+    {
+        "fr": "heptagynes",
+        "def": "plural of heptagyne"
+    },
+    {
+        "fr": "heptamère",
+        "def": "(chemistry) heptamer"
+    },
+    {
+        "fr": "heptamères",
+        "def": "plural of heptamère"
+    },
+    {
+        "fr": "heptamètre",
+        "def": "heptametric | heptameter"
+    },
+    {
+        "fr": "heptamètres",
+        "def": "plural of heptamètre"
+    },
+    {
+        "fr": "heptaméride",
+        "def": "heptameride"
+    },
+    {
+        "fr": "heptamérides",
+        "def": "plural of heptaméride"
+    },
+    {
+        "fr": "heptamérisa",
+        "def": "third-person singular past historic of heptamériser"
+    },
+    {
+        "fr": "heptamérisai",
+        "def": "first-person singular past historic of heptamériser"
+    },
+    {
+        "fr": "heptamérisaient",
+        "def": "third-person plural imperfect indicative of heptamériser"
+    },
+    {
+        "fr": "heptamérisais",
+        "def": "first/second-person singular imperfect indicative of heptamériser"
+    },
+    {
+        "fr": "heptamérisait",
+        "def": "third-person singular imperfect indicative of heptamériser"
+    },
+    {
+        "fr": "heptamérisant",
+        "def": "present participle of heptamériser"
+    },
+    {
+        "fr": "heptamérisas",
+        "def": "second-person singular past historic of heptamériser"
+    },
+    {
+        "fr": "heptamérisasse",
+        "def": "first-person singular imperfect subjunctive of heptamériser"
+    },
+    {
+        "fr": "heptamérisassent",
+        "def": "third-person plural imperfect subjunctive of heptamériser"
+    },
+    {
+        "fr": "heptamérisasses",
+        "def": "second-person singular imperfect subjunctive of heptamériser"
+    },
+    {
+        "fr": "heptamérisassiez",
+        "def": "second-person plural imperfect subjunctive of heptamériser"
+    },
+    {
+        "fr": "heptamérisassions",
+        "def": "first-person plural imperfect subjunctive of heptamériser"
+    },
+    {
+        "fr": "heptamérise",
+        "def": "inflection of heptamériser:"
+    },
+    {
+        "fr": "heptamérisent",
+        "def": "third-person plural present indicative/subjunctive of heptamériser"
+    },
+    {
+        "fr": "heptamériser",
+        "def": "(chemistry) to heptamerize"
+    },
+    {
+        "fr": "heptamérisera",
+        "def": "third-person singular simple future of heptamériser"
+    },
+    {
+        "fr": "heptamériserai",
+        "def": "first-person singular simple future of heptamériser"
+    },
+    {
+        "fr": "heptamériseraient",
+        "def": "third-person plural conditional of heptamériser"
+    },
+    {
+        "fr": "heptamériserais",
+        "def": "first/second-person singular conditional of heptamériser"
+    },
+    {
+        "fr": "heptamériserait",
+        "def": "third-person singular conditional of heptamériser"
+    },
+    {
+        "fr": "heptamériseras",
+        "def": "second-person singular simple future of heptamériser"
+    },
+    {
+        "fr": "heptamériserez",
+        "def": "second-person plural simple future of heptamériser"
+    },
+    {
+        "fr": "heptamériseriez",
+        "def": "second-person plural conditional of heptamériser"
+    },
+    {
+        "fr": "heptamériserions",
+        "def": "first-person plural conditional of heptamériser"
+    },
+    {
+        "fr": "heptamériserons",
+        "def": "first-person plural simple future of heptamériser"
+    },
+    {
+        "fr": "heptamériseront",
+        "def": "third-person plural simple future of heptamériser"
+    },
+    {
+        "fr": "heptamérises",
+        "def": "second-person singular present indicative/subjunctive of heptamériser"
+    },
+    {
+        "fr": "heptamérisez",
+        "def": "inflection of heptamériser:"
+    },
+    {
+        "fr": "heptamérisiez",
+        "def": "inflection of heptamériser:"
+    },
+    {
+        "fr": "heptamérisions",
+        "def": "inflection of heptamériser:"
+    },
+    {
+        "fr": "heptamérisons",
+        "def": "inflection of heptamériser:"
+    },
+    {
+        "fr": "heptamérisâmes",
+        "def": "first-person plural past historic of heptamériser"
+    },
+    {
+        "fr": "heptamérisât",
+        "def": "third-person singular imperfect subjunctive of heptamériser"
+    },
+    {
+        "fr": "heptamérisâtes",
+        "def": "second-person plural past historic of heptamériser"
+    },
+    {
+        "fr": "heptamérisèrent",
+        "def": "third-person plural past historic of heptamériser"
+    },
+    {
+        "fr": "heptamérisé",
+        "def": "past participle of heptamériser"
+    },
+    {
+        "fr": "heptamérisée",
+        "def": "feminine singular of heptamérisé"
+    },
+    {
+        "fr": "heptamérisées",
+        "def": "feminine plural of heptamérisé"
+    },
+    {
+        "fr": "heptamérisés",
+        "def": "masculine plural of heptamérisé"
+    },
+    {
+        "fr": "heptamétrique",
+        "def": "heptametric"
+    },
+    {
+        "fr": "heptamétriques",
+        "def": "plural of heptamétrique"
+    },
+    {
+        "fr": "heptanedioïque",
+        "def": "(organic chemistry) heptanedioic"
+    },
+    {
+        "fr": "heptanedioïques",
+        "def": "plural of heptanedioïque"
+    },
+    {
+        "fr": "heptanoïque",
+        "def": "(organic chemistry) heptanoic"
+    },
+    {
+        "fr": "heptanoïques",
+        "def": "plural of heptanoïque"
+    },
+    {
+        "fr": "heptaphylle",
+        "def": "heptaphyllous"
+    },
+    {
+        "fr": "heptaphylles",
+        "def": "plural of heptaphylle"
+    },
+    {
+        "fr": "heptapodie",
+        "def": "heptapody"
+    },
+    {
+        "fr": "heptarchie",
+        "def": "heptarchy"
+    },
+    {
+        "fr": "heptarchies",
+        "def": "plural of heptarchie"
+    },
+    {
+        "fr": "heptarchique",
+        "def": "heptarchic"
+    },
+    {
+        "fr": "heptarchiques",
+        "def": "plural of heptarchique"
+    },
+    {
+        "fr": "heptatomicité",
+        "def": "(chemistry) heptatomicity"
+    },
+    {
+        "fr": "heptatomicités",
+        "def": "plural of heptatomicité"
+    },
+    {
+        "fr": "heptatomique",
+        "def": "(chemistry) heptatomic"
+    },
+    {
+        "fr": "heptatomiques",
+        "def": "plural of heptatomique"
+    },
+    {
+        "fr": "heptaèdre",
+        "def": "heptahedron"
+    },
+    {
+        "fr": "heptaèdres",
+        "def": "plural of heptaèdre"
+    },
+    {
+        "fr": "heptaédrique",
+        "def": "heptahedral"
+    },
+    {
+        "fr": "heptaédriques",
+        "def": "plural of heptaédrique"
+    },
+    {
+        "fr": "heptol",
+        "def": "(organic chemistry) heptol"
+    },
+    {
+        "fr": "heptols",
+        "def": "plural of heptol"
+    },
+    {
+        "fr": "heptoxyde",
+        "def": "(inorganic chemistry) heptoxide"
+    },
+    {
+        "fr": "heptoxydes",
+        "def": "plural of heptoxyde"
+    },
+    {
+        "fr": "heraldicomane",
+        "def": "Having a mania for heraldry"
+    },
+    {
+        "fr": "heraldicomanes",
+        "def": "plural of heraldicomane"
+    },
+    {
+        "fr": "herbacé",
+        "def": "herbaceous"
+    },
+    {
+        "fr": "herbacée",
+        "def": "(botany) herbaceous plant | feminine singular of herbacé"
+    },
+    {
+        "fr": "herbacées",
+        "def": "feminine plural of herbacé"
+    },
+    {
+        "fr": "herbacés",
+        "def": "masculine plural of herbacé"
+    },
+    {
+        "fr": "herbage",
+        "def": "pasture"
+    },
+    {
+        "fr": "herbages",
+        "def": "plural of herbage"
+    },
+    {
+        "fr": "herbe",
+        "def": "grass (the plant) | (colloquial) weed; marijuana; ganja; cannabis"
+    },
+    {
+        "fr": "herbe-au-chat",
+        "def": "dated form of herbe à chat"
+    },
+    {
+        "fr": "herbe-aux-chats",
+        "def": "alternative form of herbe aux chats"
+    },
+    {
+        "fr": "herbe-à-Robert",
+        "def": "alternative spelling of herbe à Robert (“herb Robert”) (Geranium robertianum)"
+    },
+    {
+        "fr": "herbes",
+        "def": "plural of herbe"
+    },
+    {
+        "fr": "herbeuse",
+        "def": "feminine singular of herbeux"
+    },
+    {
+        "fr": "herbeuses",
+        "def": "feminine plural of herbeux"
+    },
+    {
+        "fr": "herbeux",
+        "def": "grassy"
+    },
+    {
+        "fr": "herbicide",
+        "def": "herbicide"
+    },
+    {
+        "fr": "herbicides",
+        "def": "plural of herbicide"
+    },
+    {
+        "fr": "herbier",
+        "def": "(botany) herbarium; collection of dried plants | place where fresh plants are stored for domestic animal consumption | (archaic) name for the first stomach of a bovine or ruminant animal"
+    },
+    {
+        "fr": "herbiers",
+        "def": "plural of herbier"
+    },
+    {
+        "fr": "herbivore",
+        "def": "herbivorous | herbivore"
+    },
+    {
+        "fr": "herbivores",
+        "def": "plural of herbivore"
+    },
+    {
+        "fr": "herborisa",
+        "def": "third-person singular past historic of herboriser"
+    },
+    {
+        "fr": "herborisai",
+        "def": "first-person singular past historic of herboriser"
+    },
+    {
+        "fr": "herborisaient",
+        "def": "third-person plural imperfect indicative of herboriser"
+    },
+    {
+        "fr": "herborisais",
+        "def": "first/second-person singular imperfect indicative of herboriser"
+    },
+    {
+        "fr": "herborisait",
+        "def": "third-person singular imperfect indicative of herboriser"
+    },
+    {
+        "fr": "herborisant",
+        "def": "present participle of herboriser"
+    },
+    {
+        "fr": "herborisas",
+        "def": "second-person singular past historic of herboriser"
+    },
+    {
+        "fr": "herborisasse",
+        "def": "first-person singular imperfect subjunctive of herboriser"
+    },
+    {
+        "fr": "herborisassent",
+        "def": "third-person plural imperfect subjunctive of herboriser"
+    },
+    {
+        "fr": "herborisasses",
+        "def": "second-person singular imperfect subjunctive of herboriser"
+    },
+    {
+        "fr": "herborisassiez",
+        "def": "second-person plural imperfect subjunctive of herboriser"
+    },
+    {
+        "fr": "herborisassions",
+        "def": "first-person plural imperfect subjunctive of herboriser"
+    },
+    {
+        "fr": "herborisateur",
+        "def": "herborizer"
+    },
+    {
+        "fr": "herborisation",
+        "def": "herborisation"
+    },
+    {
+        "fr": "herborise",
+        "def": "inflection of herboriser:"
+    },
+    {
+        "fr": "herborisent",
+        "def": "third-person plural present indicative/subjunctive of herboriser"
+    },
+    {
+        "fr": "herboriser",
+        "def": "to herborize, to collect herbs for medicinal uses"
+    },
+    {
+        "fr": "herborisera",
+        "def": "third-person singular simple future of herboriser"
+    },
+    {
+        "fr": "herboriserai",
+        "def": "first-person singular simple future of herboriser"
+    },
+    {
+        "fr": "herboriseraient",
+        "def": "third-person plural conditional of herboriser"
+    },
+    {
+        "fr": "herboriserais",
+        "def": "first/second-person singular conditional of herboriser"
+    },
+    {
+        "fr": "herboriserait",
+        "def": "third-person singular conditional of herboriser"
+    },
+    {
+        "fr": "herboriseras",
+        "def": "second-person singular simple future of herboriser"
+    },
+    {
+        "fr": "herboriserez",
+        "def": "second-person plural simple future of herboriser"
+    },
+    {
+        "fr": "herboriseriez",
+        "def": "second-person plural conditional of herboriser"
+    },
+    {
+        "fr": "herboriserions",
+        "def": "first-person plural conditional of herboriser"
+    },
+    {
+        "fr": "herboriserons",
+        "def": "first-person plural simple future of herboriser"
+    },
+    {
+        "fr": "herboriseront",
+        "def": "third-person plural simple future of herboriser"
+    },
+    {
+        "fr": "herborises",
+        "def": "second-person singular present indicative/subjunctive of herboriser"
+    },
+    {
+        "fr": "herborisez",
+        "def": "inflection of herboriser:"
+    },
+    {
+        "fr": "herborisiez",
+        "def": "inflection of herboriser:"
+    },
+    {
+        "fr": "herborisions",
+        "def": "inflection of herboriser:"
+    },
+    {
+        "fr": "herborisons",
+        "def": "inflection of herboriser:"
+    },
+    {
+        "fr": "herboriste",
+        "def": "herbalist"
+    },
+    {
+        "fr": "herboristerie",
+        "def": "herbalist's shop | herb trade"
+    },
+    {
+        "fr": "herboristeries",
+        "def": "plural of herboristerie"
+    },
+    {
+        "fr": "herboristes",
+        "def": "plural of herboriste"
+    },
+    {
+        "fr": "herborisâmes",
+        "def": "first-person plural past historic of herboriser"
+    },
+    {
+        "fr": "herborisât",
+        "def": "third-person singular imperfect subjunctive of herboriser"
+    },
+    {
+        "fr": "herborisâtes",
+        "def": "second-person plural past historic of herboriser"
+    },
+    {
+        "fr": "herborisèrent",
+        "def": "third-person plural past historic of herboriser"
+    },
+    {
+        "fr": "herborisé",
+        "def": "past participle of herboriser"
+    },
+    {
+        "fr": "herborisée",
+        "def": "feminine singular of herborisé"
+    },
+    {
+        "fr": "herborisées",
+        "def": "feminine plural of herborisé"
+    },
+    {
+        "fr": "herborisés",
+        "def": "masculine plural of herborisé"
+    },
+    {
+        "fr": "herbretais",
+        "def": "(relational) of the town of Les Herbiers"
+    },
+    {
+        "fr": "herbu",
+        "def": "grassy"
+    },
+    {
+        "fr": "herbue",
+        "def": "feminine singular of herbu"
+    },
+    {
+        "fr": "herbues",
+        "def": "feminine plural of herbu"
+    },
+    {
+        "fr": "herbus",
+        "def": "masculine plural of herbu"
+    },
+    {
+        "fr": "hercheur",
+        "def": "a worker who pushes or pulls a minecart, drawer (Lancashire), putter (Northumberland), hurrier (Yorkshire), waggoner"
+    },
+    {
+        "fr": "hercule",
+        "def": "hercules; Hercules"
+    },
+    {
+        "fr": "herculéen",
+        "def": "Herculean | (figuratively) massive"
+    },
+    {
+        "fr": "herculéenne",
+        "def": "feminine singular of herculéen"
+    },
+    {
+        "fr": "herculéennes",
+        "def": "feminine plural of herculéen"
+    },
+    {
+        "fr": "herculéens",
+        "def": "masculine plural of herculéen"
+    },
+    {
+        "fr": "hercynien",
+        "def": "(geology) Hercynian, Variscan | (geology) Hercynian, Variscan (geological period)"
+    },
+    {
+        "fr": "hercynienne",
+        "def": "feminine singular of hercynien"
+    },
+    {
+        "fr": "hercyniennes",
+        "def": "feminine plural of hercynien"
+    },
+    {
+        "fr": "hercyniens",
+        "def": "masculine plural of hercynien"
+    },
+    {
+        "fr": "hermais",
+        "def": "(relational) of Herm"
+    },
+    {
+        "fr": "hermaise",
+        "def": "feminine singular of hermais"
+    },
+    {
+        "fr": "hermaises",
+        "def": "feminine plural of hermais"
+    },
+    {
+        "fr": "hermaphrodisme",
+        "def": "hermaphrodism"
+    },
+    {
+        "fr": "hermaphrodite",
+        "def": "hermaphrodite"
+    },
+    {
+        "fr": "hermaphroditement",
+        "def": "hermaphroditically"
+    },
+    {
+        "fr": "hermaphrodites",
+        "def": "plural of hermaphrodite"
+    },
+    {
+        "fr": "hermine",
+        "def": "ermine (Mustela erminea) | ermine (material) | ermine (tincture)"
+    },
+    {
+        "fr": "hermines",
+        "def": "plural of hermine"
+    },
+    {
+        "fr": "herminette",
+        "def": "female ermine when its fur is yellow in summer, as opposed to white in winter | its fur | adze | spokeshave"
+    },
+    {
+        "fr": "herminettes",
+        "def": "plural of herminette"
+    },
+    {
+        "fr": "hermite",
+        "def": "alternative form of ermite"
+    },
+    {
+        "fr": "hermites",
+        "def": "plural of hermite"
+    },
+    {
+        "fr": "hermitien",
+        "def": "(mathematics) Hermitian"
+    },
+    {
+        "fr": "hermitienne",
+        "def": "feminine singular of hermitien"
+    },
+    {
+        "fr": "hermitiennes",
+        "def": "feminine plural of hermitien"
+    },
+    {
+        "fr": "hermitiens",
+        "def": "masculine plural of hermitien"
+    },
+    {
+        "fr": "herméneute",
+        "def": "hermeneute"
+    },
+    {
+        "fr": "herméneutes",
+        "def": "plural of herméneute"
+    },
+    {
+        "fr": "herméneuticiser",
+        "def": "(transitive) (philosophy) to hermeneuticize"
+    },
+    {
+        "fr": "herméneuticité",
+        "def": "hermeneuticity, hermeneuticality"
+    },
+    {
+        "fr": "herméneutique",
+        "def": "hermeneutical | hermeneutics"
+    },
+    {
+        "fr": "herméneutiquement",
+        "def": "hermeneutically"
+    },
+    {
+        "fr": "herméneutiques",
+        "def": "plural of herméneutique"
+    },
+    {
+        "fr": "herméticité",
+        "def": "hermeticity"
+    },
+    {
+        "fr": "hermétique",
+        "def": "hermetic (airtight, watertight, etc.)"
+    },
+    {
+        "fr": "hermétiquement",
+        "def": "hermetically"
+    },
+    {
+        "fr": "hermétiques",
+        "def": "plural of hermétique"
+    },
+    {
+        "fr": "hermétiser",
+        "def": "(transitive) to hermetically seal"
+    },
+    {
+        "fr": "hermétisme",
+        "def": "hermeticism"
+    },
+    {
+        "fr": "hermétismes",
+        "def": "plural of hermétisme"
+    },
+    {
+        "fr": "herniaire",
+        "def": "hernial"
+    },
+    {
+        "fr": "herniaires",
+        "def": "plural of herniaire"
+    },
+    {
+        "fr": "hernie",
+        "def": "hernia (part of the body protruding abnormally through a tear or opening in an adjacent part)"
+    },
+    {
+        "fr": "hernies",
+        "def": "plural of hernie"
+    },
+    {
+        "fr": "hernieuse",
+        "def": "feminine singular of hernieux"
+    },
+    {
+        "fr": "hernieuses",
+        "def": "feminine plural of hernieux"
+    },
+    {
+        "fr": "hernieux",
+        "def": "hernial (affected by a hernia)"
+    },
+    {
+        "fr": "hernioplastie",
+        "def": "hernioplasty"
+    },
+    {
+        "fr": "hernioplasties",
+        "def": "plural of hernioplastie"
+    },
+    {
+        "fr": "herniorraphie",
+        "def": "herniorrhaphy"
+    },
+    {
+        "fr": "herniorraphies",
+        "def": "plural of herniorraphie"
+    },
+    {
+        "fr": "hernique",
+        "def": "Hernician | Hernician (language)"
+    },
+    {
+        "fr": "herniques",
+        "def": "plural of hernique"
+    },
+    {
+        "fr": "hernié",
+        "def": "herniated"
+    },
+    {
+        "fr": "herniée",
+        "def": "feminine singular of hernié"
+    },
+    {
+        "fr": "herniées",
+        "def": "feminine plural of hernié"
+    },
+    {
+        "fr": "herniés",
+        "def": "masculine plural of hernié"
+    },
+    {
+        "fr": "hernute",
+        "def": "Moravian brother, Herrnhuter, a member of the Moravian church"
+    },
+    {
+        "fr": "heroïc-fantasy",
+        "def": "misspelling of heroic fantasy"
+    },
+    {
+        "fr": "herpolhodie",
+        "def": "(mathematics) herpolhode"
+    },
+    {
+        "fr": "herpolhodies",
+        "def": "plural of herpolhodie"
+    },
+    {
+        "fr": "herpès",
+        "def": "herpes"
+    },
+    {
+        "fr": "herpétarium",
+        "def": "herpetarium"
+    },
+    {
+        "fr": "herpétariums",
+        "def": "plural of herpétarium"
+    },
+    {
+        "fr": "herpétique",
+        "def": "herpetic"
+    },
+    {
+        "fr": "herpétiques",
+        "def": "plural of herpétique"
+    },
+    {
+        "fr": "herpétologie",
+        "def": "herpetology"
+    },
+    {
+        "fr": "herpétologique",
+        "def": "herpetological"
+    },
+    {
+        "fr": "herpétologiques",
+        "def": "plural of herpétologique"
+    },
+    {
+        "fr": "hersa",
+        "def": "third-person singular past historic of herser"
+    },
+    {
+        "fr": "hersai",
+        "def": "first-person singular past historic of herser"
+    },
+    {
+        "fr": "hersaient",
+        "def": "third-person plural imperfect indicative of herser"
+    },
+    {
+        "fr": "hersais",
+        "def": "first/second-person singular imperfect indicative of herser"
+    },
+    {
+        "fr": "hersait",
+        "def": "third-person singular imperfect indicative of herser"
+    },
+    {
+        "fr": "hersant",
+        "def": "present participle of herser"
+    },
+    {
+        "fr": "hersas",
+        "def": "second-person singular past historic of herser"
+    },
+    {
+        "fr": "hersasse",
+        "def": "first-person singular imperfect subjunctive of herser"
+    },
+    {
+        "fr": "hersassent",
+        "def": "third-person plural imperfect subjunctive of herser"
+    },
+    {
+        "fr": "hersasses",
+        "def": "second-person singular imperfect subjunctive of herser"
+    },
+    {
+        "fr": "hersassiez",
+        "def": "second-person plural imperfect subjunctive of herser"
+    },
+    {
+        "fr": "hersassions",
+        "def": "first-person plural imperfect subjunctive of herser"
+    },
+    {
+        "fr": "herse",
+        "def": "harrow (device for breaking up soil) | portcullis (gate in the form of a grating) | spike strip, road spikes, traffic spikes | grate, grill (especially to block large objects floating down a river) | candlestick, candelabrum (with a triangular base and spikes to hold large candles) | stage lighting instrument, luminaire that disperses light over a stage | (heraldry) portcullis | inflection of herser:"
+    },
+    {
+        "fr": "hersent",
+        "def": "third-person plural present indicative/subjunctive of herser"
+    },
+    {
+        "fr": "herser",
+        "def": "(transitive) to harrow (drag a harrow over)"
+    },
+    {
+        "fr": "hersera",
+        "def": "third-person singular simple future of herser"
+    },
+    {
+        "fr": "herserai",
+        "def": "first-person singular simple future of herser"
+    },
+    {
+        "fr": "herseraient",
+        "def": "third-person plural conditional of herser"
+    },
+    {
+        "fr": "herserais",
+        "def": "first/second-person singular conditional of herser"
+    },
+    {
+        "fr": "herserait",
+        "def": "third-person singular conditional of herser"
+    },
+    {
+        "fr": "herseras",
+        "def": "second-person singular simple future of herser"
+    },
+    {
+        "fr": "herserez",
+        "def": "second-person plural simple future of herser"
+    },
+    {
+        "fr": "herseriez",
+        "def": "second-person plural conditional of herser"
+    },
+    {
+        "fr": "herserions",
+        "def": "first-person plural conditional of herser"
+    },
+    {
+        "fr": "herserons",
+        "def": "first-person plural simple future of herser"
+    },
+    {
+        "fr": "herseront",
+        "def": "third-person plural simple future of herser"
+    },
+    {
+        "fr": "herses",
+        "def": "plural of herse"
+    },
+    {
+        "fr": "hersez",
+        "def": "inflection of herser:"
+    },
+    {
+        "fr": "hersiez",
+        "def": "inflection of herser:"
+    },
+    {
+        "fr": "hersions",
+        "def": "inflection of herser:"
+    },
+    {
+        "fr": "hersons",
+        "def": "inflection of herser:"
+    },
+    {
+        "fr": "hersâmes",
+        "def": "first-person plural past historic of herser"
+    },
+    {
+        "fr": "hersât",
+        "def": "third-person singular imperfect subjunctive of herser"
+    },
+    {
+        "fr": "hersâtes",
+        "def": "second-person plural past historic of herser"
+    },
+    {
+        "fr": "hersèrent",
+        "def": "third-person plural past historic of herser"
+    },
+    {
+        "fr": "hersé",
+        "def": "past participle of herser"
+    },
+    {
+        "fr": "hersée",
+        "def": "feminine singular of hersé"
+    },
+    {
+        "fr": "hersées",
+        "def": "feminine plural of hersé"
+    },
+    {
+        "fr": "hersés",
+        "def": "masculine plural of hersé"
+    },
+    {
+        "fr": "hertz",
+        "def": "hertz"
+    },
+    {
+        "fr": "hertzien",
+        "def": "Hertzian"
+    },
+    {
+        "fr": "hertzienne",
+        "def": "feminine singular of hertzien"
+    },
+    {
+        "fr": "hertziennes",
+        "def": "feminine plural of hertzien"
+    },
+    {
+        "fr": "hertziens",
+        "def": "masculine plural of hertzien"
+    },
+    {
+        "fr": "hesbignon",
+        "def": "(relational) of Hesbaye"
+    },
+    {
+        "fr": "hesbignonne",
+        "def": "feminine singular of hesbignon"
+    },
+    {
+        "fr": "hesbignonnes",
+        "def": "feminine plural of hesbignon"
+    },
+    {
+        "fr": "hesbignons",
+        "def": "masculine plural of hesbignon"
+    },
+    {
+        "fr": "hespagnol",
+        "def": "obsolete form of espagnol"
+    },
+    {
+        "fr": "hespagnole",
+        "def": "feminine singular of hespagnol"
+    },
+    {
+        "fr": "hespagnoles",
+        "def": "feminine plural of hespagnol"
+    },
+    {
+        "fr": "hespagnols",
+        "def": "masculine plural of hespagnol"
+    },
+    {
+        "fr": "hespéridine",
+        "def": "(organic chemistry) hesperidin"
+    },
+    {
+        "fr": "hespéridines",
+        "def": "plural of hespéridine"
+    },
+    {
+        "fr": "hespérie",
+        "def": "Hesperia"
+    },
+    {
+        "fr": "hess",
+        "def": "(slang) a difficult situation"
+    },
+    {
+        "fr": "hessien",
+        "def": "Hessian"
+    },
+    {
+        "fr": "hessienne",
+        "def": "feminine singular of hessien"
+    },
+    {
+        "fr": "hessiennes",
+        "def": "feminine plural of hessien"
+    },
+    {
+        "fr": "hessiens",
+        "def": "masculine plural of hessien"
+    },
+    {
+        "fr": "hessois",
+        "def": "Hessian"
+    },
+    {
+        "fr": "hessoise",
+        "def": "feminine singular of hessois"
+    },
+    {
+        "fr": "hessoises",
+        "def": "feminine plural of hessois"
+    },
+    {
+        "fr": "hetman",
+        "def": "hetman"
+    },
+    {
+        "fr": "heu",
+        "def": "(nautical) hoy (small coaster vessel) | (obsolete) past participle of havoir | alternative spelling of euh"
+    },
+    {
+        "fr": "heur",
+        "def": "(dated, literary, now rare) hap, chance, fortune"
+    },
+    {
+        "fr": "heure",
+        "def": "hour, time | o'clock"
+    },
+    {
+        "fr": "heure-lumière",
+        "def": "light hour (astronomical distance)"
+    },
+    {
+        "fr": "heures",
+        "def": "plural of heure"
+    },
+    {
+        "fr": "heures-lumière",
+        "def": "plural of heure-lumière"
+    },
+    {
+        "fr": "heureuse",
+        "def": "feminine singular of heureux"
+    },
+    {
+        "fr": "heureusement",
+        "def": "luckily, fortunately | happily | (informal) and a good job too! and a good thing too! well that's lucky! I'm glad to hear it! it's just as well! thank goodness!"
+    },
+    {
+        "fr": "heureuses",
+        "def": "feminine plural of heureux"
+    },
+    {
+        "fr": "heureux",
+        "def": "happy | glad [with de] | lucky, fortunate | good, excellent | happy person"
+    },
+    {
+        "fr": "heureuxe",
+        "def": "(neologism, uncommon, nonstandard) Gender-neutral singular of heureux."
+    },
+    {
+        "fr": "heuristique",
+        "def": "heuristic | heuristics"
+    },
+    {
+        "fr": "heuristiquement",
+        "def": "heuristically"
+    },
+    {
+        "fr": "heuristiques",
+        "def": "plural of heuristique"
+    },
+    {
+        "fr": "heurs",
+        "def": "plural of heur"
+    },
+    {
+        "fr": "heurt",
+        "def": "collision | bump (action of bumping) | clash"
+    },
+    {
+        "fr": "heurta",
+        "def": "third-person singular past historic of heurter"
+    },
+    {
+        "fr": "heurtai",
+        "def": "first-person singular past historic of heurter"
+    },
+    {
+        "fr": "heurtaient",
+        "def": "third-person plural imperfect indicative of heurter"
+    },
+    {
+        "fr": "heurtais",
+        "def": "first/second-person singular imperfect indicative of heurter"
+    },
+    {
+        "fr": "heurtait",
+        "def": "third-person singular imperfect indicative of heurter"
+    },
+    {
+        "fr": "heurtant",
+        "def": "only used in vipère heurtante (“puffadder”) | present participle of heurter"
+    },
+    {
+        "fr": "heurtas",
+        "def": "second-person singular past historic of heurter"
+    },
+    {
+        "fr": "heurtasse",
+        "def": "first-person singular imperfect subjunctive of heurter"
+    },
+    {
+        "fr": "heurtassent",
+        "def": "third-person plural imperfect subjunctive of heurter"
+    },
+    {
+        "fr": "heurtasses",
+        "def": "second-person singular imperfect subjunctive of heurter"
+    },
+    {
+        "fr": "heurtassiez",
+        "def": "second-person plural imperfect subjunctive of heurter"
+    },
+    {
+        "fr": "heurtassions",
+        "def": "first-person plural imperfect subjunctive of heurter"
+    },
+    {
+        "fr": "heurte",
+        "def": "inflection of heurter:"
+    },
+    {
+        "fr": "heurtent",
+        "def": "third-person plural present indicative/subjunctive of heurter"
+    },
+    {
+        "fr": "heurter",
+        "def": "to strike, hit | to clash, conflict with | (reflexive) to crash, collide (together) | (reflexive, of opinions) to clash"
+    },
+    {
+        "fr": "heurtera",
+        "def": "third-person singular simple future of heurter"
+    },
+    {
+        "fr": "heurterai",
+        "def": "first-person singular simple future of heurter"
+    },
+    {
+        "fr": "heurteraient",
+        "def": "third-person plural conditional of heurter"
+    },
+    {
+        "fr": "heurterais",
+        "def": "first/second-person singular conditional of heurter"
+    },
+    {
+        "fr": "heurterait",
+        "def": "third-person singular conditional of heurter"
+    },
+    {
+        "fr": "heurteras",
+        "def": "second-person singular simple future of heurter"
+    },
+    {
+        "fr": "heurterez",
+        "def": "second-person plural simple future of heurter"
+    },
+    {
+        "fr": "heurteriez",
+        "def": "second-person plural conditional of heurter"
+    },
+    {
+        "fr": "heurterions",
+        "def": "first-person plural conditional of heurter"
+    },
+    {
+        "fr": "heurterons",
+        "def": "first-person plural simple future of heurter"
+    },
+    {
+        "fr": "heurteront",
+        "def": "third-person plural simple future of heurter"
+    },
+    {
+        "fr": "heurtes",
+        "def": "second-person singular present indicative/subjunctive of heurter"
+    },
+    {
+        "fr": "heurtez",
+        "def": "inflection of heurter:"
+    },
+    {
+        "fr": "heurtiez",
+        "def": "inflection of heurter:"
+    },
+    {
+        "fr": "heurtions",
+        "def": "inflection of heurter:"
+    },
+    {
+        "fr": "heurtoir",
+        "def": "doorknocker, knocker | (rail transport) buffer, bumper"
+    },
+    {
+        "fr": "heurtoirs",
+        "def": "plural of heurtoir"
+    },
+    {
+        "fr": "heurtons",
+        "def": "inflection of heurter:"
+    },
+    {
+        "fr": "heurts",
+        "def": "plural of heurt"
+    },
+    {
+        "fr": "heurtâmes",
+        "def": "first-person plural past historic of heurter"
+    },
+    {
+        "fr": "heurtât",
+        "def": "third-person singular imperfect subjunctive of heurter"
+    },
+    {
+        "fr": "heurtâtes",
+        "def": "second-person plural past historic of heurter"
+    },
+    {
+        "fr": "heurtèrent",
+        "def": "third-person plural past historic of heurter"
+    },
+    {
+        "fr": "heurté",
+        "def": "past participle of heurter | jerky"
+    },
+    {
+        "fr": "heurtée",
+        "def": "feminine singular of heurté"
+    },
+    {
+        "fr": "heurtées",
+        "def": "feminine plural of heurté"
+    },
+    {
+        "fr": "heurtés",
+        "def": "masculine plural of heurté"
+    },
+    {
+        "fr": "heus",
+        "def": "first/second-person singular past historic of havoir | masculine plural of heu"
+    },
+    {
+        "fr": "heux",
+        "def": "plural of heu"
+    },
+    {
+        "fr": "hexa",
+        "def": "clipping of hexadécimal"
+    },
+    {
+        "fr": "hexacanthe",
+        "def": "(biology) hexacanth"
+    },
+    {
+        "fr": "hexacanthes",
+        "def": "plural of hexacanthe"
+    },
+    {
+        "fr": "hexachlorocyclopentadiène",
+        "def": "(organic chemistry) hexachlorocyclopentadiene"
+    },
+    {
+        "fr": "hexachlorure",
+        "def": "(inorganic chemistry) hexachloride"
+    },
+    {
+        "fr": "hexachlorures",
+        "def": "plural of hexachlorure"
+    },
+    {
+        "fr": "hexacontane",
+        "def": "(organic chemistry) hexacontane"
+    },
+    {
+        "fr": "hexacontanes",
+        "def": "plural of hexacontane"
+    },
+    {
+        "fr": "hexacoralliaire",
+        "def": "hexacorallian"
+    },
+    {
+        "fr": "hexacorde",
+        "def": "hexachord"
+    },
+    {
+        "fr": "hexacosane",
+        "def": "(organic chemistry) hexacosane"
+    },
+    {
+        "fr": "hexacosanoïque",
+        "def": "(organic chemistry) hexacosanoic"
+    },
+    {
+        "fr": "hexacosanoïques",
+        "def": "plural of hexacosanoïque"
+    },
+    {
+        "fr": "hexadenté",
+        "def": "hexadentate"
+    },
+    {
+        "fr": "hexadentée",
+        "def": "feminine singular of hexadenté"
+    },
+    {
+        "fr": "hexadentées",
+        "def": "feminine plural of hexadenté"
+    },
+    {
+        "fr": "hexadentés",
+        "def": "masculine plural of hexadenté"
+    },
+    {
+        "fr": "hexadécane",
+        "def": "(organic chemistry) hexadecane"
+    },
+    {
+        "fr": "hexadécanes",
+        "def": "plural of hexadécane"
+    },
+    {
+        "fr": "hexadécanoïque",
+        "def": "(organic chemistry) hexadecanoic"
+    },
+    {
+        "fr": "hexadécanoïques",
+        "def": "plural of hexadécanoïque"
+    },
+    {
+        "fr": "hexadécimal",
+        "def": "hexadecimal (expressed in hexadecimal) | hexadecimal"
+    },
+    {
+        "fr": "hexadécimale",
+        "def": "feminine singular of hexadécimal"
+    },
+    {
+        "fr": "hexadécimales",
+        "def": "feminine plural of hexadécimal"
+    },
+    {
+        "fr": "hexadécimaux",
+        "def": "masculine plural of hexadécimal"
+    },
+    {
+        "fr": "hexaeïcosanoïque",
+        "def": "synonym of hexacosanoïque"
+    },
+    {
+        "fr": "hexaeïcosanoïques",
+        "def": "plural of hexaeïcosanoïque"
+    },
+    {
+        "fr": "hexafluorure",
+        "def": "(inorganic chemistry) hexafluoride"
+    },
+    {
+        "fr": "hexafluorures",
+        "def": "plural of hexafluorure"
+    },
+    {
+        "fr": "hexagonal",
+        "def": "hexagonal | French; specifically, related to the French mainland (l'Hexagone)"
+    },
+    {
+        "fr": "hexagonale",
+        "def": "feminine singular of hexagonal"
+    },
+    {
+        "fr": "hexagonales",
+        "def": "feminine plural of hexagonal"
+    },
+    {
+        "fr": "hexagonaux",
+        "def": "masculine plural of hexagonal"
+    },
+    {
+        "fr": "hexagone",
+        "def": "hexagonal | hexagon | (geography) alternative spelling of Hexagone (“mainland France”)"
+    },
+    {
+        "fr": "hexagones",
+        "def": "plural of hexagone"
+    },
+    {
+        "fr": "hexagramme",
+        "def": "hexagram"
+    },
+    {
+        "fr": "hexagrammes",
+        "def": "plural of hexagramme"
+    },
+    {
+        "fr": "hexahélicène",
+        "def": "(organic chemistry) hexahelicene"
+    },
+    {
+        "fr": "hexahélicènes",
+        "def": "plural of hexahélicène"
+    },
+    {
+        "fr": "hexamère",
+        "def": "(chemistry) hexamer"
+    },
+    {
+        "fr": "hexamères",
+        "def": "plural of hexamère"
+    },
+    {
+        "fr": "hexamètre",
+        "def": "hexametric | hexameter"
+    },
+    {
+        "fr": "hexamètres",
+        "def": "plural of hexamètre"
+    },
+    {
+        "fr": "hexamérisa",
+        "def": "third-person singular past historic of hexamériser"
+    },
+    {
+        "fr": "hexamérisai",
+        "def": "first-person singular past historic of hexamériser"
+    },
+    {
+        "fr": "hexamérisaient",
+        "def": "third-person plural imperfect indicative of hexamériser"
+    },
+    {
+        "fr": "hexamérisais",
+        "def": "first/second-person singular imperfect indicative of hexamériser"
+    },
+    {
+        "fr": "hexamérisait",
+        "def": "third-person singular imperfect indicative of hexamériser"
+    },
+    {
+        "fr": "hexamérisant",
+        "def": "present participle of hexamériser"
+    },
+    {
+        "fr": "hexamérisas",
+        "def": "second-person singular past historic of hexamériser"
+    },
+    {
+        "fr": "hexamérisasse",
+        "def": "first-person singular imperfect subjunctive of hexamériser"
+    },
+    {
+        "fr": "hexamérisassent",
+        "def": "third-person plural imperfect subjunctive of hexamériser"
+    },
+    {
+        "fr": "hexamérisasses",
+        "def": "second-person singular imperfect subjunctive of hexamériser"
+    },
+    {
+        "fr": "hexamérisassiez",
+        "def": "second-person plural imperfect subjunctive of hexamériser"
+    },
+    {
+        "fr": "hexamérisassions",
+        "def": "first-person plural imperfect subjunctive of hexamériser"
+    },
+    {
+        "fr": "hexamérise",
+        "def": "inflection of hexamériser:"
+    },
+    {
+        "fr": "hexamérisent",
+        "def": "third-person plural present indicative/subjunctive of hexamériser"
+    },
+    {
+        "fr": "hexamériser",
+        "def": "(chemistry) to hexamerize"
+    },
+    {
+        "fr": "hexamérisera",
+        "def": "third-person singular simple future of hexamériser"
+    },
+    {
+        "fr": "hexamériserai",
+        "def": "first-person singular simple future of hexamériser"
+    },
+    {
+        "fr": "hexamériseraient",
+        "def": "third-person plural conditional of hexamériser"
+    },
+    {
+        "fr": "hexamériserais",
+        "def": "first/second-person singular conditional of hexamériser"
+    },
+    {
+        "fr": "hexamériserait",
+        "def": "third-person singular conditional of hexamériser"
+    },
+    {
+        "fr": "hexamériseras",
+        "def": "second-person singular simple future of hexamériser"
+    },
+    {
+        "fr": "hexamériserez",
+        "def": "second-person plural simple future of hexamériser"
+    },
+    {
+        "fr": "hexamériseriez",
+        "def": "second-person plural conditional of hexamériser"
+    },
+    {
+        "fr": "hexamériserions",
+        "def": "first-person plural conditional of hexamériser"
+    },
+    {
+        "fr": "hexamériserons",
+        "def": "first-person plural simple future of hexamériser"
+    },
+    {
+        "fr": "hexamériseront",
+        "def": "third-person plural simple future of hexamériser"
+    },
+    {
+        "fr": "hexamérises",
+        "def": "second-person singular present indicative/subjunctive of hexamériser"
+    },
+    {
+        "fr": "hexamérisez",
+        "def": "inflection of hexamériser:"
+    },
+    {
+        "fr": "hexamérisiez",
+        "def": "inflection of hexamériser:"
+    },
+    {
+        "fr": "hexamérisions",
+        "def": "inflection of hexamériser:"
+    },
+    {
+        "fr": "hexamérisons",
+        "def": "inflection of hexamériser:"
+    },
+    {
+        "fr": "hexamérisâmes",
+        "def": "first-person plural past historic of hexamériser"
+    },
+    {
+        "fr": "hexamérisât",
+        "def": "third-person singular imperfect subjunctive of hexamériser"
+    },
+    {
+        "fr": "hexamérisâtes",
+        "def": "second-person plural past historic of hexamériser"
+    },
+    {
+        "fr": "hexamérisèrent",
+        "def": "third-person plural past historic of hexamériser"
+    },
+    {
+        "fr": "hexamérisé",
+        "def": "past participle of hexamériser"
+    },
+    {
+        "fr": "hexamérisée",
+        "def": "feminine singular of hexamérisé"
+    },
+    {
+        "fr": "hexamérisées",
+        "def": "feminine plural of hexamérisé"
+    },
+    {
+        "fr": "hexamérisés",
+        "def": "masculine plural of hexamérisé"
+    },
+    {
+        "fr": "hexaméthylènetétramine",
+        "def": "(organic chemistry) hexamethylenetetramine, hexamine, methenamine"
+    },
+    {
+        "fr": "hexane",
+        "def": "(organic chemistry) hexane"
+    },
+    {
+        "fr": "hexanes",
+        "def": "plural of hexane"
+    },
+    {
+        "fr": "hexanoïque",
+        "def": "(organic chemistry) hexanoic"
+    },
+    {
+        "fr": "hexanoïques",
+        "def": "plural of hexanoïque"
+    },
+    {
+        "fr": "hexaphylle",
+        "def": "hexaphyllous"
+    },
+    {
+        "fr": "hexaphylles",
+        "def": "plural of hexaphylle"
+    },
+    {
+        "fr": "hexapode",
+        "def": "hexapodal | hexapod"
+    },
+    {
+        "fr": "hexapodie",
+        "def": "hexapody"
+    },
+    {
+        "fr": "hexasperme",
+        "def": "hexaspermous"
+    },
+    {
+        "fr": "hexaspermes",
+        "def": "plural of hexasperme"
+    },
+    {
+        "fr": "hexatique",
+        "def": "(physics, chemistry) hexatic"
+    },
+    {
+        "fr": "hexatiques",
+        "def": "plural of hexatique"
+    },
+    {
+        "fr": "hexatomique",
+        "def": "(chemistry) hexatomic"
+    },
+    {
+        "fr": "hexatomiques",
+        "def": "plural of hexatomique"
+    },
+    {
+        "fr": "hexatriacontanoïque",
+        "def": "(organic chemistry) hexatriacontanoic"
+    },
+    {
+        "fr": "hexatriacontanoïques",
+        "def": "plural of hexatriacontanoïque"
+    },
+    {
+        "fr": "hexazinone",
+        "def": "hexazinone"
+    },
+    {
+        "fr": "hexaèdre",
+        "def": "hexahedral | (geometry) hexahedron"
+    },
+    {
+        "fr": "hexaèdres",
+        "def": "plural of hexaèdre"
+    },
+    {
+        "fr": "hexaédrique",
+        "def": "hexahedral"
+    },
+    {
+        "fr": "hexaédriques",
+        "def": "plural of hexaédrique"
+    },
+    {
+        "fr": "hexaédrite",
+        "def": "(mineralogy) hexahedrite"
+    },
+    {
+        "fr": "hexaédrites",
+        "def": "plural of hexaédrite"
+    },
+    {
+        "fr": "hexaénoïque",
+        "def": "(organic chemistry) hexaenoic"
+    },
+    {
+        "fr": "hexaénoïques",
+        "def": "plural of hexaénoïque"
+    },
+    {
+        "fr": "hexol",
+        "def": "(organic chemistry) hexol"
+    },
+    {
+        "fr": "hexols",
+        "def": "plural of hexol"
+    },
+    {
+        "fr": "hexose",
+        "def": "(biochemistry) hexose (sugar containing six carbon atoms)"
+    },
+    {
+        "fr": "hiatal",
+        "def": "(anatomy, relational) hiatus"
+    },
+    {
+        "fr": "hiatale",
+        "def": "feminine singular of hiatal"
+    },
+    {
+        "fr": "hiatales",
+        "def": "feminine plural of hiatal"
+    },
+    {
+        "fr": "hiataux",
+        "def": "masculine plural of hiatal"
+    },
+    {
+        "fr": "hiatique",
+        "def": "hiatic"
+    },
+    {
+        "fr": "hiatiques",
+        "def": "plural of hiatique"
+    },
+    {
+        "fr": "hiatus",
+        "def": "hiatus, gap | (phonetics) hiatus"
+    },
+    {
+        "fr": "hiberna",
+        "def": "third-person singular past historic of hiberner"
+    },
+    {
+        "fr": "hibernai",
+        "def": "first-person singular past historic of hiberner"
+    },
+    {
+        "fr": "hibernaient",
+        "def": "third-person plural imperfect indicative of hiberner"
+    },
+    {
+        "fr": "hibernais",
+        "def": "first/second-person singular imperfect indicative of hiberner"
+    },
+    {
+        "fr": "hibernait",
+        "def": "third-person singular imperfect indicative of hiberner"
+    },
+    {
+        "fr": "hibernant",
+        "def": "present participle of hiberner"
+    },
+    {
+        "fr": "hibernas",
+        "def": "second-person singular past historic of hiberner"
+    },
+    {
+        "fr": "hibernasse",
+        "def": "first-person singular imperfect subjunctive of hiberner"
+    },
+    {
+        "fr": "hibernassent",
+        "def": "third-person plural imperfect subjunctive of hiberner"
+    },
+    {
+        "fr": "hibernasses",
+        "def": "second-person singular imperfect subjunctive of hiberner"
+    },
+    {
+        "fr": "hibernassiez",
+        "def": "second-person plural imperfect subjunctive of hiberner"
+    },
+    {
+        "fr": "hibernassions",
+        "def": "first-person plural imperfect subjunctive of hiberner"
+    },
+    {
+        "fr": "hibernation",
+        "def": "hibernation"
+    },
+    {
+        "fr": "hibernations",
+        "def": "plural of hibernation"
+    },
+    {
+        "fr": "hiberne",
+        "def": "inflection of hiberner:"
+    },
+    {
+        "fr": "hibernent",
+        "def": "third-person plural present indicative/subjunctive of hiberner"
+    },
+    {
+        "fr": "hiberner",
+        "def": "to hibernate (to spend the winter in a dormant or inactive state of minimal activity, low body temperature, slow breathing and heart rate, and low metabolic rate; to go through a winter sleep)"
+    },
+    {
+        "fr": "hibernera",
+        "def": "third-person singular simple future of hiberner"
+    },
+    {
+        "fr": "hibernerai",
+        "def": "first-person singular simple future of hiberner"
+    },
+    {
+        "fr": "hiberneraient",
+        "def": "third-person plural conditional of hiberner"
+    },
+    {
+        "fr": "hibernerais",
+        "def": "first/second-person singular conditional of hiberner"
+    },
+    {
+        "fr": "hibernerait",
+        "def": "third-person singular conditional of hiberner"
+    },
+    {
+        "fr": "hiberneras",
+        "def": "second-person singular simple future of hiberner"
+    },
+    {
+        "fr": "hibernerez",
+        "def": "second-person plural simple future of hiberner"
+    },
+    {
+        "fr": "hiberneriez",
+        "def": "second-person plural conditional of hiberner"
+    },
+    {
+        "fr": "hibernerions",
+        "def": "first-person plural conditional of hiberner"
+    },
+    {
+        "fr": "hibernerons",
+        "def": "first-person plural simple future of hiberner"
+    },
+    {
+        "fr": "hiberneront",
+        "def": "third-person plural simple future of hiberner"
+    },
+    {
+        "fr": "hibernes",
+        "def": "second-person singular present indicative/subjunctive of hiberner"
+    },
+    {
+        "fr": "hibernez",
+        "def": "inflection of hiberner:"
+    },
+    {
+        "fr": "hiberniez",
+        "def": "inflection of hiberner:"
+    },
+    {
+        "fr": "hibernions",
+        "def": "inflection of hiberner:"
+    },
+    {
+        "fr": "hibernons",
+        "def": "inflection of hiberner:"
+    },
+    {
+        "fr": "hibernâmes",
+        "def": "first-person plural past historic of hiberner"
+    },
+    {
+        "fr": "hibernât",
+        "def": "third-person singular imperfect subjunctive of hiberner"
+    },
+    {
+        "fr": "hibernâtes",
+        "def": "second-person plural past historic of hiberner"
+    },
+    {
+        "fr": "hibernèrent",
+        "def": "third-person plural past historic of hiberner"
+    },
+    {
+        "fr": "hiberné",
+        "def": "past participle of hiberner"
+    },
+    {
+        "fr": "hibernée",
+        "def": "feminine singular of hiberné"
+    },
+    {
+        "fr": "hibernées",
+        "def": "feminine plural of hiberné"
+    },
+    {
+        "fr": "hibernés",
+        "def": "masculine plural of hiberné"
+    },
+    {
+        "fr": "hibiscus",
+        "def": "hibiscus (flowering plant)"
+    },
+    {
+        "fr": "hibou",
+        "def": "owl (specifically, those species of owls with ear tufts; those without ear tufts are chouettes)"
+    },
+    {
+        "fr": "hiboux",
+        "def": "plural of hibou"
+    },
+    {
+        "fr": "hic",
+        "def": "snag, hitch, catch, kink, problem | hic! (indicating a hiccup)"
+    },
+    {
+        "fr": "hickory",
+        "def": "hickory"
+    },
+    {
+        "fr": "hidalgo",
+        "def": "hidalgo"
+    },
+    {
+        "fr": "hidalgos",
+        "def": "plural of hidalgo"
+    },
+    {
+        "fr": "hideur",
+        "def": "hideousness"
+    },
+    {
+        "fr": "hideuse",
+        "def": "feminine singular of hideux"
+    },
+    {
+        "fr": "hideusement",
+        "def": "hideously"
+    },
+    {
+        "fr": "hideuses",
+        "def": "feminine plural of hideux"
+    },
+    {
+        "fr": "hideux",
+        "def": "grotesque; vile; hideous"
+    },
+    {
+        "fr": "hidjab",
+        "def": "hijab, the hajib headscarf"
+    },
+    {
+        "fr": "hidjabs",
+        "def": "plural of hidjab"
+    },
+    {
+        "fr": "hidrosadénite",
+        "def": "(pathology) hidradenitis"
+    },
+    {
+        "fr": "hidrose",
+        "def": "hidrosis"
+    },
+    {
+        "fr": "hidroses",
+        "def": "plural of hidrose"
+    },
+    {
+        "fr": "hie",
+        "def": "stamping/ramming rod"
+    },
+    {
+        "fr": "hier",
+        "def": "yesterday | (obsolete) to stamp with a rod (hie)"
+    },
+    {
+        "fr": "hies",
+        "def": "plural of hie"
+    },
+    {
+        "fr": "highlander",
+        "def": "highlander"
+    },
+    {
+        "fr": "hijab",
+        "def": "alternative spelling of hidjab"
+    },
+    {
+        "fr": "hijabs",
+        "def": "plural of hijab"
+    },
+    {
+        "fr": "hilaire",
+        "def": "hilar"
+    },
+    {
+        "fr": "hilalien",
+        "def": "Relating to the Banu Hilal tribe"
+    },
+    {
+        "fr": "hilalienne",
+        "def": "feminine singular of hilalien"
+    },
+    {
+        "fr": "hilaliennes",
+        "def": "feminine plural of hilalien"
+    },
+    {
+        "fr": "hilaliens",
+        "def": "masculine plural of hilalien"
+    },
+    {
+        "fr": "hilarant",
+        "def": "hilarious (very amusing; very funny)"
+    },
+    {
+        "fr": "hilarante",
+        "def": "feminine singular of hilarant"
+    },
+    {
+        "fr": "hilarantes",
+        "def": "feminine plural of hilarant"
+    },
+    {
+        "fr": "hilarants",
+        "def": "masculine plural of hilarant"
+    },
+    {
+        "fr": "hilare",
+        "def": "mirthful"
+    },
+    {
+        "fr": "hilarité",
+        "def": "hilarity, mirth"
+    },
+    {
+        "fr": "hilarités",
+        "def": "plural of hilarité"
+    },
+    {
+        "fr": "hilbertien",
+        "def": "(mathematics) Hilbertian"
+    },
+    {
+        "fr": "hilbertienne",
+        "def": "feminine singular of hilbertien"
+    },
+    {
+        "fr": "hilbertiennes",
+        "def": "feminine plural of hilbertien"
+    },
+    {
+        "fr": "hilbertiens",
+        "def": "masculine plural of hilbertien"
+    },
+    {
+        "fr": "hile",
+        "def": "hilum"
+    },
+    {
+        "fr": "hiles",
+        "def": "plural of hile"
+    },
+    {
+        "fr": "himalayen",
+        "def": "Himalayan"
+    },
+    {
+        "fr": "himalayenne",
+        "def": "feminine singular of himalayen"
+    },
+    {
+        "fr": "himalayennes",
+        "def": "feminine plural of himalayen"
+    },
+    {
+        "fr": "himalayens",
+        "def": "masculine plural of himalayen"
+    },
+    {
+        "fr": "himation",
+        "def": "himation"
+    },
+    {
+        "fr": "hin",
+        "def": "(onomatopoeia, colloquial) heh, ooh, hehe!"
+    },
+    {
+        "fr": "hindi",
+        "def": "Hindi; one of the official languages of India"
+    },
+    {
+        "fr": "hindiphone",
+        "def": "Hindiphone (Hindi-speaking) | Hindiphone (a Hindi-speaking person)"
+    },
+    {
+        "fr": "hindiphones",
+        "def": "plural of hindiphone"
+    },
+    {
+        "fr": "hindou",
+        "def": "Hindu"
+    },
+    {
+        "fr": "hindoue",
+        "def": "feminine singular of hindou"
+    },
+    {
+        "fr": "hindoues",
+        "def": "feminine plural of hindou"
+    },
+    {
+        "fr": "hindouisme",
+        "def": "Hinduism"
+    },
+    {
+        "fr": "hindouismes",
+        "def": "plural of hindouisme"
+    },
+    {
+        "fr": "hindouiste",
+        "def": "Hindu | Hindu (person)"
+    },
+    {
+        "fr": "hindouistes",
+        "def": "plural of hindouiste"
+    },
+    {
+        "fr": "hindouité",
+        "def": "(politics) Hindutva"
+    },
+    {
+        "fr": "hindous",
+        "def": "plural of hindou"
+    },
+    {
+        "fr": "hindouïté",
+        "def": "alternative form of hindouité"
+    },
+    {
+        "fr": "hindî",
+        "def": "the Hindi language of India"
+    },
+    {
+        "fr": "hinterland",
+        "def": "hinterland"
+    },
+    {
+        "fr": "hip-hop",
+        "def": "alternative form of hip hop"
+    },
+    {
+        "fr": "hipparion",
+        "def": "hipparion"
+    },
+    {
+        "fr": "hippiatre",
+        "def": "(archaic) one who specializes in the medical treatment of horses, a hippiater, veterinarian, or farrier"
+    },
+    {
+        "fr": "hippiatres",
+        "def": "plural of hippiatre"
+    },
+    {
+        "fr": "hippiatrie",
+        "def": "hippiatry"
+    },
+    {
+        "fr": "hippiatrique",
+        "def": "hippiatric"
+    },
+    {
+        "fr": "hippie",
+        "def": "hippie"
+    },
+    {
+        "fr": "hippies",
+        "def": "plural of hippie"
+    },
+    {
+        "fr": "hippique",
+        "def": "(relational) horse; hippic, equestrian"
+    },
+    {
+        "fr": "hippiquement",
+        "def": "equestrianly"
+    },
+    {
+        "fr": "hippiques",
+        "def": "plural of hippique"
+    },
+    {
+        "fr": "hippisme",
+        "def": "horse racing"
+    },
+    {
+        "fr": "hippismes",
+        "def": "plural of hippisme"
+    },
+    {
+        "fr": "hippobrome",
+        "def": "(botany) Hippobroma | (botany) Hippobromus"
+    },
+    {
+        "fr": "hippocampe",
+        "def": "(ichthyology) sea horse | (anatomy, mythology) hippocampus"
+    },
+    {
+        "fr": "hippocampes",
+        "def": "plural of hippocampe"
+    },
+    {
+        "fr": "hippocratique",
+        "def": "Hippocratic"
+    },
+    {
+        "fr": "hippocratisme",
+        "def": "Hippocratism"
+    },
+    {
+        "fr": "hippodamien",
+        "def": "Hippodamian"
+    },
+    {
+        "fr": "hippodamienne",
+        "def": "feminine singular of hippodamien"
+    },
+    {
+        "fr": "hippodamiennes",
+        "def": "feminine plural of hippodamien"
+    },
+    {
+        "fr": "hippodamiens",
+        "def": "masculine plural of hippodamien"
+    },
+    {
+        "fr": "hippodrome",
+        "def": "hippodrome, racecourse, circuit for equestrian sport"
+    },
+    {
+        "fr": "hippogriffe",
+        "def": "hippogriff"
+    },
+    {
+        "fr": "hippogriffes",
+        "def": "plural of hippogriffe"
+    },
+    {
+        "fr": "hippologie",
+        "def": "hippology"
+    },
+    {
+        "fr": "hippologique",
+        "def": "hippological"
+    },
+    {
+        "fr": "hippomanie",
+        "def": "hippomania"
+    },
+    {
+        "fr": "hippomanies",
+        "def": "plural of hippomanie"
+    },
+    {
+        "fr": "hippomobile",
+        "def": "horse-drawn, propelled by a horse"
+    },
+    {
+        "fr": "hippomobiles",
+        "def": "plural of hippomobile"
+    },
+    {
+        "fr": "hippophagie",
+        "def": "hippophagy"
+    },
+    {
+        "fr": "hippophagies",
+        "def": "plural of hippophagie"
+    },
+    {
+        "fr": "hippophagique",
+        "def": "(relational) horse meat"
+    },
+    {
+        "fr": "hippophagiques",
+        "def": "plural of hippophagique"
+    },
+    {
+        "fr": "hippopotame",
+        "def": "hippopotamus | (derogatory) an overweight person"
+    },
+    {
+        "fr": "hippopotames",
+        "def": "plural of hippopotame"
+    },
+    {
+        "fr": "hippopotamesque",
+        "def": "hippolike; gargantuan"
+    },
+    {
+        "fr": "hippopotomonstrosesquipédaliophobie",
+        "def": "hippopotomonstrosesquipedaliophobia (fear of long words)"
+    },
+    {
+        "fr": "hippurie",
+        "def": "(pathology) hippuria"
+    },
+    {
+        "fr": "hippuries",
+        "def": "plural of hippurie"
+    },
+    {
+        "fr": "hippurique",
+        "def": "(organic chemistry) hippuric"
+    },
+    {
+        "fr": "hippuriques",
+        "def": "plural of hippurique"
+    },
+    {
+        "fr": "hippy",
+        "def": "alternative spelling of hippie"
+    },
+    {
+        "fr": "hippys",
+        "def": "plural of hippy"
+    },
+    {
+        "fr": "hipster",
+        "def": "hipster"
+    },
+    {
+        "fr": "hipsters",
+        "def": "plural of hipster"
+    },
+    {
+        "fr": "hiragana",
+        "def": "hiragana"
+    },
+    {
+        "fr": "hircin",
+        "def": "(rare) hircine"
+    },
+    {
+        "fr": "hircines",
+        "def": "feminine plural of hircin"
+    },
+    {
+        "fr": "hircins",
+        "def": "masculine plural of hircin"
+    },
+    {
+        "fr": "hircique",
+        "def": "(organic chemistry) hircic"
+    },
+    {
+        "fr": "hirciques",
+        "def": "plural of hircique"
+    },
+    {
+        "fr": "hirondeau",
+        "def": "A swallow chick"
+    },
+    {
+        "fr": "hirondelle",
+        "def": "swallow (bird) | (printing) alignment mark printed in the margin | (colloquial, dated) policeman on a bicycle or motorcycle"
+    },
+    {
+        "fr": "hirondelles",
+        "def": "plural of hirondelle"
+    },
+    {
+        "fr": "hirsute",
+        "def": "hairy, bristly, shaggy"
+    },
+    {
+        "fr": "hirsutes",
+        "def": "plural of hirsute"
+    },
+    {
+        "fr": "hirsutisme",
+        "def": "hirsutism"
+    },
+    {
+        "fr": "hispanicité",
+        "def": "Hispanicity"
+    },
+    {
+        "fr": "hispanique",
+        "def": "Hispanic"
+    },
+    {
+        "fr": "hispaniques",
+        "def": "plural of hispanique"
+    },
+    {
+        "fr": "hispanisa",
+        "def": "third-person singular past historic of hispaniser"
+    },
+    {
+        "fr": "hispanisai",
+        "def": "first-person singular past historic of hispaniser"
+    },
+    {
+        "fr": "hispanisaient",
+        "def": "third-person plural imperfect indicative of hispaniser"
+    },
+    {
+        "fr": "hispanisais",
+        "def": "first/second-person singular imperfect indicative of hispaniser"
+    },
+    {
+        "fr": "hispanisait",
+        "def": "third-person singular imperfect indicative of hispaniser"
+    },
+    {
+        "fr": "hispanisant",
+        "def": "present participle of hispaniser"
+    },
+    {
+        "fr": "hispanisas",
+        "def": "second-person singular past historic of hispaniser"
+    },
+    {
+        "fr": "hispanisasse",
+        "def": "first-person singular imperfect subjunctive of hispaniser"
+    },
+    {
+        "fr": "hispanisassent",
+        "def": "third-person plural imperfect subjunctive of hispaniser"
+    },
+    {
+        "fr": "hispanisasses",
+        "def": "second-person singular imperfect subjunctive of hispaniser"
+    },
+    {
+        "fr": "hispanisassiez",
+        "def": "second-person plural imperfect subjunctive of hispaniser"
+    },
+    {
+        "fr": "hispanisassions",
+        "def": "first-person plural imperfect subjunctive of hispaniser"
+    },
+    {
+        "fr": "hispanise",
+        "def": "inflection of hispaniser:"
+    },
+    {
+        "fr": "hispanisent",
+        "def": "third-person plural present indicative/subjunctive of hispaniser"
+    },
+    {
+        "fr": "hispaniser",
+        "def": "to Hispanicize"
+    },
+    {
+        "fr": "hispanisera",
+        "def": "third-person singular simple future of hispaniser"
+    },
+    {
+        "fr": "hispaniserai",
+        "def": "first-person singular simple future of hispaniser"
+    },
+    {
+        "fr": "hispaniseraient",
+        "def": "third-person plural conditional of hispaniser"
+    },
+    {
+        "fr": "hispaniserais",
+        "def": "first/second-person singular conditional of hispaniser"
+    },
+    {
+        "fr": "hispaniserait",
+        "def": "third-person singular conditional of hispaniser"
+    },
+    {
+        "fr": "hispaniseras",
+        "def": "second-person singular simple future of hispaniser"
+    },
+    {
+        "fr": "hispaniserez",
+        "def": "second-person plural simple future of hispaniser"
+    },
+    {
+        "fr": "hispaniseriez",
+        "def": "second-person plural conditional of hispaniser"
+    },
+    {
+        "fr": "hispaniserions",
+        "def": "first-person plural conditional of hispaniser"
+    },
+    {
+        "fr": "hispaniserons",
+        "def": "first-person plural simple future of hispaniser"
+    },
+    {
+        "fr": "hispaniseront",
+        "def": "third-person plural simple future of hispaniser"
+    },
+    {
+        "fr": "hispanises",
+        "def": "second-person singular present indicative/subjunctive of hispaniser"
+    },
+    {
+        "fr": "hispanisez",
+        "def": "inflection of hispaniser:"
+    },
+    {
+        "fr": "hispanisiez",
+        "def": "inflection of hispaniser:"
+    },
+    {
+        "fr": "hispanisions",
+        "def": "inflection of hispaniser:"
+    },
+    {
+        "fr": "hispanisme",
+        "def": "Hispanism"
+    },
+    {
+        "fr": "hispanisons",
+        "def": "inflection of hispaniser:"
+    },
+    {
+        "fr": "hispaniste",
+        "def": "Hispanist"
+    },
+    {
+        "fr": "hispanistes",
+        "def": "plural of hispaniste"
+    },
+    {
+        "fr": "hispanisâmes",
+        "def": "first-person plural past historic of hispaniser"
+    },
+    {
+        "fr": "hispanisât",
+        "def": "third-person singular imperfect subjunctive of hispaniser"
+    },
+    {
+        "fr": "hispanisâtes",
+        "def": "second-person plural past historic of hispaniser"
+    },
+    {
+        "fr": "hispanisèrent",
+        "def": "third-person plural past historic of hispaniser"
+    },
+    {
+        "fr": "hispanisé",
+        "def": "past participle of hispaniser"
+    },
+    {
+        "fr": "hispanisée",
+        "def": "feminine singular of hispanisé"
+    },
+    {
+        "fr": "hispanisées",
+        "def": "feminine plural of hispanisé"
+    },
+    {
+        "fr": "hispanisés",
+        "def": "masculine plural of hispanisé"
+    },
+    {
+        "fr": "hispano-américain",
+        "def": "alternative spelling of hispanoaméricain"
+    },
+    {
+        "fr": "hispano-arabe",
+        "def": "Hispano-Arabic"
+    },
+    {
+        "fr": "hispanophile",
+        "def": "Hispanophile"
+    },
+    {
+        "fr": "hispanophiles",
+        "def": "plural of hispanophile"
+    },
+    {
+        "fr": "hispanophone",
+        "def": "Spanish-speaking, Hispanophone | Spanish-speaker, Hispanophone"
+    },
+    {
+        "fr": "hispanophones",
+        "def": "plural of hispanophone"
+    },
+    {
+        "fr": "hispide",
+        "def": "hispid"
+    },
+    {
+        "fr": "hispides",
+        "def": "plural of hispide"
+    },
+    {
+        "fr": "hissa",
+        "def": "third-person singular past historic of hisser"
+    },
+    {
+        "fr": "hissai",
+        "def": "first-person singular past historic of hisser"
+    },
+    {
+        "fr": "hissaient",
+        "def": "third-person plural imperfect indicative of hisser"
+    },
+    {
+        "fr": "hissais",
+        "def": "first/second-person singular imperfect indicative of hisser"
+    },
+    {
+        "fr": "hissait",
+        "def": "third-person singular imperfect indicative of hisser"
+    },
+    {
+        "fr": "hissant",
+        "def": "present participle of hisser"
+    },
+    {
+        "fr": "hissas",
+        "def": "second-person singular past historic of hisser"
+    },
+    {
+        "fr": "hissasse",
+        "def": "first-person singular imperfect subjunctive of hisser"
+    },
+    {
+        "fr": "hissassent",
+        "def": "third-person plural imperfect subjunctive of hisser"
+    },
+    {
+        "fr": "hissasses",
+        "def": "second-person singular imperfect subjunctive of hisser"
+    },
+    {
+        "fr": "hissassiez",
+        "def": "second-person plural imperfect subjunctive of hisser"
+    },
+    {
+        "fr": "hissassions",
+        "def": "first-person plural imperfect subjunctive of hisser"
+    },
+    {
+        "fr": "hisse",
+        "def": "inflection of hisser:"
+    },
+    {
+        "fr": "hissent",
+        "def": "third-person plural present indicative/subjunctive of hisser"
+    },
+    {
+        "fr": "hisser",
+        "def": "to hoist, to raise | (reflexive) to rise through the ranks"
+    },
+    {
+        "fr": "hissera",
+        "def": "third-person singular future of hisser"
+    },
+    {
+        "fr": "hisserai",
+        "def": "first-person singular future of hisser"
+    },
+    {
+        "fr": "hisseraient",
+        "def": "third-person plural conditional of hisser"
+    },
+    {
+        "fr": "hisserais",
+        "def": "first/second-person singular conditional of hisser"
+    },
+    {
+        "fr": "hisserait",
+        "def": "third-person singular conditional of hisser"
+    },
+    {
+        "fr": "hisseras",
+        "def": "second-person singular future of hisser"
+    },
+    {
+        "fr": "hisserez",
+        "def": "second-person plural future of hisser"
+    },
+    {
+        "fr": "hisseriez",
+        "def": "second-person plural conditional of hisser"
+    },
+    {
+        "fr": "hisserions",
+        "def": "first-person plural conditional of hisser"
+    },
+    {
+        "fr": "hisserons",
+        "def": "first-person plural future of hisser"
+    },
+    {
+        "fr": "hisseront",
+        "def": "third-person plural future of hisser"
+    },
+    {
+        "fr": "hisses",
+        "def": "second-person singular present indicative/subjunctive of hisser"
+    },
+    {
+        "fr": "hissez",
+        "def": "inflection of hisser:"
+    },
+    {
+        "fr": "hissiez",
+        "def": "inflection of hisser:"
+    },
+    {
+        "fr": "hissions",
+        "def": "inflection of hisser:"
+    },
+    {
+        "fr": "hissons",
+        "def": "inflection of hisser:"
+    },
+    {
+        "fr": "hissâmes",
+        "def": "first-person plural past historic of hisser"
+    },
+    {
+        "fr": "hissât",
+        "def": "third-person singular imperfect subjunctive of hisser"
+    },
+    {
+        "fr": "hissâtes",
+        "def": "second-person plural past historic of hisser"
+    },
+    {
+        "fr": "hissèrent",
+        "def": "third-person plural past historic of hisser"
+    },
+    {
+        "fr": "hissé",
+        "def": "past participle of hisser"
+    },
+    {
+        "fr": "hissée",
+        "def": "feminine singular of hissé"
+    },
+    {
+        "fr": "hissées",
+        "def": "feminine plural of hissé"
+    },
+    {
+        "fr": "hissés",
+        "def": "masculine plural of hissé"
+    },
+    {
+        "fr": "histamine",
+        "def": "histamine"
+    },
+    {
+        "fr": "histaminique",
+        "def": "histaminic"
+    },
+    {
+        "fr": "histidine",
+        "def": "histidine"
+    },
+    {
+        "fr": "histiocytaire",
+        "def": "(biology) histiocytic"
+    },
+    {
+        "fr": "histiocytaires",
+        "def": "plural of histiocytaire"
+    },
+    {
+        "fr": "histiocyte",
+        "def": "(biology) histiocyte"
+    },
+    {
+        "fr": "histochimie",
+        "def": "(chemistry, biology) histochemistry"
+    },
+    {
+        "fr": "histochimies",
+        "def": "plural of histochimie"
+    },
+    {
+        "fr": "histochimique",
+        "def": "(chemistry, biology) histochemical"
+    },
+    {
+        "fr": "histochimiques",
+        "def": "plural of histochimique"
+    },
+    {
+        "fr": "histochimiste",
+        "def": "(chemistry, biology) histochemist"
+    },
+    {
+        "fr": "histochimistes",
+        "def": "plural of histochimiste"
+    },
+    {
+        "fr": "histocompatibilité",
+        "def": "(immunology) histocompatibility"
+    },
+    {
+        "fr": "histocompatibilités",
+        "def": "plural of histocompatibilité"
+    },
+    {
+        "fr": "histogenèse",
+        "def": "histogenesis"
+    },
+    {
+        "fr": "histogramme",
+        "def": "histogram"
+    },
+    {
+        "fr": "histogrammes",
+        "def": "plural of histogramme"
+    },
+    {
+        "fr": "histoire",
+        "def": "story | history | (informal) lie, fantasy, invention | misadventure"
+    },
+    {
+        "fr": "histoire-géo",
+        "def": "(informal) clipping of histoire-géographie, a subject/class in French schools about history and geography"
+    },
+    {
+        "fr": "histoires",
+        "def": "plural of histoire"
+    },
+    {
+        "fr": "histologie",
+        "def": "histology (the study of the microscopic structure)"
+    },
+    {
+        "fr": "histologique",
+        "def": "histological"
+    },
+    {
+        "fr": "histologiquement",
+        "def": "histologically"
+    },
+    {
+        "fr": "histologiques",
+        "def": "plural of histologique"
+    },
+    {
+        "fr": "histologiste",
+        "def": "histologist"
+    },
+    {
+        "fr": "histologistes",
+        "def": "plural of histologiste"
+    },
+    {
+        "fr": "histolyse",
+        "def": "histolysis (breakdown of bodily tissues)"
+    },
+    {
+        "fr": "histolyses",
+        "def": "plural of histolyse"
+    },
+    {
+        "fr": "histone",
+        "def": "(biochemistry) histone"
+    },
+    {
+        "fr": "histones",
+        "def": "plural of histone"
+    },
+    {
+        "fr": "histonomie",
+        "def": "(biology) histonomy"
+    },
+    {
+        "fr": "histonomies",
+        "def": "plural of histonomie"
+    },
+    {
+        "fr": "histoplasmose",
+        "def": "histoplasmosis"
+    },
+    {
+        "fr": "historadiographie",
+        "def": "historadiography"
+    },
+    {
+        "fr": "historial",
+        "def": "(archaic) historial, historical"
+    },
+    {
+        "fr": "historiale",
+        "def": "feminine singular of historial"
+    },
+    {
+        "fr": "historiales",
+        "def": "feminine plural of historial"
+    },
+    {
+        "fr": "historiaux",
+        "def": "masculine plural of historial"
+    },
+    {
+        "fr": "historicisme",
+        "def": "historicism"
+    },
+    {
+        "fr": "historicismes",
+        "def": "plural of historicisme"
+    },
+    {
+        "fr": "historiciste",
+        "def": "historicist"
+    },
+    {
+        "fr": "historicistes",
+        "def": "plural of historiciste"
+    },
+    {
+        "fr": "historicité",
+        "def": "historicity"
+    },
+    {
+        "fr": "historien",
+        "def": "historian"
+    },
+    {
+        "fr": "historienne",
+        "def": "historian"
+    },
+    {
+        "fr": "historiennes",
+        "def": "plural of historienne"
+    },
+    {
+        "fr": "historiens",
+        "def": "plural of historien"
+    },
+    {
+        "fr": "historiette",
+        "def": "historiette, storiette / storyette (short story or tale)"
+    },
+    {
+        "fr": "historiettes",
+        "def": "plural of historiette"
+    },
+    {
+        "fr": "historiographe",
+        "def": "historiographer"
+    },
+    {
+        "fr": "historiographes",
+        "def": "plural of historiographe"
+    },
+    {
+        "fr": "historiographie",
+        "def": "historiography"
+    },
+    {
+        "fr": "historiographies",
+        "def": "plural of historiographie"
+    },
+    {
+        "fr": "historiographique",
+        "def": "historiographic"
+    },
+    {
+        "fr": "historiographiques",
+        "def": "plural of historiographique"
+    },
+    {
+        "fr": "historique",
+        "def": "(relational) historical (pertaining to history) | historic (important or likely to be important to history and historians) | (computing) history | chronological narration of past events, history"
+    },
+    {
+        "fr": "historiquement",
+        "def": "historically"
+    },
+    {
+        "fr": "historiques",
+        "def": "plural of historique"
+    },
+    {
+        "fr": "historisme",
+        "def": "historism"
+    },
+    {
+        "fr": "historié",
+        "def": "past participle of historier | historiated"
+    },
+    {
+        "fr": "historiée",
+        "def": "feminine singular of historié"
+    },
+    {
+        "fr": "historiées",
+        "def": "feminine plural of historié"
+    },
+    {
+        "fr": "historiés",
+        "def": "masculine plural of historié"
+    },
+    {
+        "fr": "histotoxique",
+        "def": "histotoxic"
+    },
+    {
+        "fr": "histrion",
+        "def": "(derogatory) a minstrel"
+    },
+    {
+        "fr": "histrionique",
+        "def": "histrionic, melodramatic, attention-seeking"
+    },
+    {
+        "fr": "histrioniques",
+        "def": "plural of histrionique"
+    },
+    {
+        "fr": "histrionisme",
+        "def": "histrionics"
+    },
+    {
+        "fr": "histrionismes",
+        "def": "plural of histrionisme"
+    },
+    {
+        "fr": "histrions",
+        "def": "plural of histrion"
+    },
+    {
+        "fr": "hit",
+        "def": "hit (popular song) | hit (success)"
+    },
+    {
+        "fr": "hit-parade",
+        "def": "hit parade; chart"
+    },
+    {
+        "fr": "hit-parades",
+        "def": "plural of hit-parade"
+    },
+    {
+        "fr": "hitchcockien",
+        "def": "Hitchcockian"
+    },
+    {
+        "fr": "hitchcockienne",
+        "def": "feminine singular of hitchcockien"
+    },
+    {
+        "fr": "hitchcockiennes",
+        "def": "feminine plural of hitchcockien"
+    },
+    {
+        "fr": "hitchcockiens",
+        "def": "masculine plural of hitchcockien"
+    },
+    {
+        "fr": "hitlérien",
+        "def": "Hitlerian (related to Adolf Hitler)"
+    },
+    {
+        "fr": "hitlérienne",
+        "def": "feminine singular of hitlérien"
+    },
+    {
+        "fr": "hitlériennes",
+        "def": "feminine plural of hitlérien"
+    },
+    {
+        "fr": "hitlériens",
+        "def": "masculine plural of hitlérien"
+    },
+    {
+        "fr": "hitlérisme",
+        "def": "Hitlerism"
+    },
+    {
+        "fr": "hitlérismes",
+        "def": "plural of hitlérisme"
+    },
+    {
+        "fr": "hittite",
+        "def": "Hittite | Hittite language"
+    },
+    {
+        "fr": "hiver",
+        "def": "winter"
+    },
+    {
+        "fr": "hiverna",
+        "def": "third-person singular past historic of hiverner"
+    },
+    {
+        "fr": "hivernage",
+        "def": "wintering"
+    },
+    {
+        "fr": "hivernages",
+        "def": "plural of hivernage"
+    },
+    {
+        "fr": "hivernai",
+        "def": "first-person singular past historic of hiverner"
+    },
+    {
+        "fr": "hivernaient",
+        "def": "third-person plural imperfect indicative of hiverner"
+    },
+    {
+        "fr": "hivernais",
+        "def": "first/second-person singular imperfect indicative of hiverner"
+    },
+    {
+        "fr": "hivernait",
+        "def": "third-person singular imperfect indicative of hiverner"
+    },
+    {
+        "fr": "hivernal",
+        "def": "winter | wintery, similar to winter"
+    },
+    {
+        "fr": "hivernale",
+        "def": "feminine singular of hivernal"
+    },
+    {
+        "fr": "hivernales",
+        "def": "feminine plural of hivernal"
+    },
+    {
+        "fr": "hivernant",
+        "def": "present participle of hiverner"
+    },
+    {
+        "fr": "hivernas",
+        "def": "second-person singular past historic of hiverner"
+    },
+    {
+        "fr": "hivernasse",
+        "def": "first-person singular imperfect subjunctive of hiverner"
+    },
+    {
+        "fr": "hivernassent",
+        "def": "third-person plural imperfect subjunctive of hiverner"
+    },
+    {
+        "fr": "hivernasses",
+        "def": "second-person singular imperfect subjunctive of hiverner"
+    },
+    {
+        "fr": "hivernassiez",
+        "def": "second-person plural imperfect subjunctive of hiverner"
+    },
+    {
+        "fr": "hivernassions",
+        "def": "first-person plural imperfect subjunctive of hiverner"
+    },
+    {
+        "fr": "hivernaux",
+        "def": "masculine plural of hivernal"
+    },
+    {
+        "fr": "hiverne",
+        "def": "inflection of hiverner:"
+    },
+    {
+        "fr": "hivernent",
+        "def": "third-person plural present indicative/subjunctive of hiverner"
+    },
+    {
+        "fr": "hiverner",
+        "def": "(intransitive, of a boat, or animal) to winter, hibernate (to spend the winter in a certain place, especially for warmth)"
+    },
+    {
+        "fr": "hivernera",
+        "def": "third-person singular simple future of hiverner"
+    },
+    {
+        "fr": "hivernerai",
+        "def": "first-person singular simple future of hiverner"
+    },
+    {
+        "fr": "hiverneraient",
+        "def": "third-person plural conditional of hiverner"
+    },
+    {
+        "fr": "hivernerais",
+        "def": "first/second-person singular conditional of hiverner"
+    },
+    {
+        "fr": "hivernerait",
+        "def": "third-person singular conditional of hiverner"
+    },
+    {
+        "fr": "hiverneras",
+        "def": "second-person singular simple future of hiverner"
+    },
+    {
+        "fr": "hivernerez",
+        "def": "second-person plural simple future of hiverner"
+    },
+    {
+        "fr": "hiverneriez",
+        "def": "second-person plural conditional of hiverner"
+    },
+    {
+        "fr": "hivernerions",
+        "def": "first-person plural conditional of hiverner"
+    },
+    {
+        "fr": "hivernerons",
+        "def": "first-person plural simple future of hiverner"
+    },
+    {
+        "fr": "hiverneront",
+        "def": "third-person plural simple future of hiverner"
+    },
+    {
+        "fr": "hivernes",
+        "def": "second-person singular present indicative/subjunctive of hiverner"
+    },
+    {
+        "fr": "hivernez",
+        "def": "inflection of hiverner:"
+    },
+    {
+        "fr": "hiverniez",
+        "def": "inflection of hiverner:"
+    },
+    {
+        "fr": "hivernions",
+        "def": "inflection of hiverner:"
+    },
+    {
+        "fr": "hivernons",
+        "def": "inflection of hiverner:"
+    },
+    {
+        "fr": "hivernâmes",
+        "def": "first-person plural past historic of hiverner"
+    },
+    {
+        "fr": "hivernât",
+        "def": "third-person singular imperfect subjunctive of hiverner"
+    },
+    {
+        "fr": "hivernâtes",
+        "def": "second-person plural past historic of hiverner"
+    },
+    {
+        "fr": "hivernèrent",
+        "def": "third-person plural past historic of hiverner"
+    },
+    {
+        "fr": "hiverné",
+        "def": "past participle of hiverner"
+    },
+    {
+        "fr": "hivernée",
+        "def": "feminine singular of hiverné"
+    },
+    {
+        "fr": "hivernées",
+        "def": "feminine plural of hiverné"
+    },
+    {
+        "fr": "hivernés",
+        "def": "masculine plural of hiverné"
+    },
+    {
+        "fr": "hivers",
+        "def": "plural of hiver"
+    },
+    {
+        "fr": "hièble",
+        "def": "danewort (Sambucus ebulus)"
+    },
+    {
+        "fr": "hièbles",
+        "def": "plural of hièble"
+    },
+    {
+        "fr": "hiémal",
+        "def": "(relational) winter"
+    },
+    {
+        "fr": "hiémale",
+        "def": "feminine singular of hiémal"
+    },
+    {
+        "fr": "hiémales",
+        "def": "feminine plural of hiémal"
+    },
+    {
+        "fr": "hiémaux",
+        "def": "masculine plural of hiémal"
+    },
+    {
+        "fr": "hiérarchie",
+        "def": "hierarchy"
+    },
+    {
+        "fr": "hiérarchies",
+        "def": "plural of hiérarchie"
+    },
+    {
+        "fr": "hiérarchique",
+        "def": "hierarchical"
+    },
+    {
+        "fr": "hiérarchiquement",
+        "def": "hierarchically"
+    },
+    {
+        "fr": "hiérarchiques",
+        "def": "plural of hiérarchique"
+    },
+    {
+        "fr": "hiérarchisa",
+        "def": "third-person singular past historic of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisai",
+        "def": "first-person singular past historic of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisaient",
+        "def": "third-person plural imperfect indicative of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisais",
+        "def": "first/second-person singular imperfect indicative of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisait",
+        "def": "third-person singular imperfect indicative of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisant",
+        "def": "present participle of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisas",
+        "def": "second-person singular past historic of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisasse",
+        "def": "first-person singular imperfect subjunctive of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisassent",
+        "def": "third-person plural imperfect subjunctive of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisasses",
+        "def": "second-person singular imperfect subjunctive of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisassiez",
+        "def": "second-person plural imperfect subjunctive of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisassions",
+        "def": "first-person plural imperfect subjunctive of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisation",
+        "def": "hierarchization | prioritization"
+    },
+    {
+        "fr": "hiérarchisations",
+        "def": "plural of hiérarchisation"
+    },
+    {
+        "fr": "hiérarchise",
+        "def": "inflection of hiérarchiser:"
+    },
+    {
+        "fr": "hiérarchisent",
+        "def": "third-person plural present indicative/subjunctive of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiser",
+        "def": "to hierarchize | to prioritize"
+    },
+    {
+        "fr": "hiérarchisera",
+        "def": "third-person singular simple future of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiserai",
+        "def": "first-person singular simple future of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiseraient",
+        "def": "third-person plural conditional of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiserais",
+        "def": "first/second-person singular conditional of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiserait",
+        "def": "third-person singular conditional of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiseras",
+        "def": "second-person singular simple future of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiserez",
+        "def": "second-person plural simple future of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiseriez",
+        "def": "second-person plural conditional of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiserions",
+        "def": "first-person plural conditional of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiserons",
+        "def": "first-person plural simple future of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchiseront",
+        "def": "third-person plural simple future of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchises",
+        "def": "second-person singular present indicative/subjunctive of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisez",
+        "def": "inflection of hiérarchiser:"
+    },
+    {
+        "fr": "hiérarchisiez",
+        "def": "inflection of hiérarchiser:"
+    },
+    {
+        "fr": "hiérarchisions",
+        "def": "inflection of hiérarchiser:"
+    },
+    {
+        "fr": "hiérarchisons",
+        "def": "inflection of hiérarchiser:"
+    },
+    {
+        "fr": "hiérarchisâmes",
+        "def": "first-person plural past historic of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisât",
+        "def": "third-person singular imperfect subjunctive of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisâtes",
+        "def": "second-person plural past historic of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisèrent",
+        "def": "third-person plural past historic of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisé",
+        "def": "past participle of hiérarchiser"
+    },
+    {
+        "fr": "hiérarchisée",
+        "def": "feminine singular of hiérarchisé"
+    },
+    {
+        "fr": "hiérarchisées",
+        "def": "feminine plural of hiérarchisé"
+    },
+    {
+        "fr": "hiérarchisés",
+        "def": "masculine plural of hiérarchisé"
+    },
+    {
+        "fr": "hiérarque",
+        "def": "hierarch"
+    },
+    {
+        "fr": "hiérarques",
+        "def": "plural of hiérarque"
+    },
+    {
+        "fr": "hiératique",
+        "def": "hieratic | solemn, ritual"
+    },
+    {
+        "fr": "hiératiquement",
+        "def": "hieratically | solemnly, ritually"
+    },
+    {
+        "fr": "hiératiques",
+        "def": "plural of hiératique"
+    },
+    {
+        "fr": "hiératisme",
+        "def": "hieraticism"
+    },
+    {
+        "fr": "hiératismes",
+        "def": "plural of hiératisme"
+    },
+    {
+        "fr": "hiérogamie",
+        "def": "hierogamy"
+    },
+    {
+        "fr": "hiéroglyphe",
+        "def": "hieroglyph | something undecipherable"
+    },
+    {
+        "fr": "hiéroglyphes",
+        "def": "plural of hiéroglyphe"
+    },
+    {
+        "fr": "hiéroglyphique",
+        "def": "hieroglyphic"
+    },
+    {
+        "fr": "hiéroglyphiques",
+        "def": "plural of hiéroglyphique"
+    },
+    {
+        "fr": "hiérogrammate",
+        "def": "hierogrammate"
+    },
+    {
+        "fr": "hiérogrammatiste",
+        "def": "hierogrammatist"
+    },
+    {
+        "fr": "hiérosolymitain",
+        "def": "Jerusalemite"
+    },
+    {
+        "fr": "hiérosolymite",
+        "def": "Jerusalemite"
+    },
+    {
+        "fr": "hmm",
+        "def": "expressing skepticism"
+    },
+    {
+        "fr": "hmong",
+        "def": "Hmong"
+    },
+    {
+        "fr": "ho",
+        "def": "Used by tamers to calm the animal they are taming, especially horses; whoa | Used to express surprise or shock"
+    },
+    {
+        "fr": "hoazin",
+        "def": "hoatzin"
+    },
+    {
+        "fr": "hobbesien",
+        "def": "Hobbesian"
+    },
+    {
+        "fr": "hobbesienne",
+        "def": "feminine singular of hobbesien"
+    },
+    {
+        "fr": "hobbesiennes",
+        "def": "feminine plural of hobbesien"
+    },
+    {
+        "fr": "hobbesiens",
+        "def": "masculine plural of hobbesien"
+    },
+    {
+        "fr": "hobbies",
+        "def": "plural of hobby"
+    },
+    {
+        "fr": "hobby",
+        "def": "hobby (activity)"
+    },
+    {
+        "fr": "hobbys",
+        "def": "plural of hobby"
+    },
+    {
+        "fr": "hobereau",
+        "def": "hobby (falcon) | country squire"
+    },
+    {
+        "fr": "hobereaux",
+        "def": "plural of hobereau"
+    },
+    {
+        "fr": "hocco",
+        "def": "hocco"
+    },
+    {
+        "fr": "hocha",
+        "def": "third-person singular past historic of hocher"
+    },
+    {
+        "fr": "hochai",
+        "def": "first-person singular past historic of hocher"
+    },
+    {
+        "fr": "hochaient",
+        "def": "third-person plural imperfect indicative of hocher"
+    },
+    {
+        "fr": "hochais",
+        "def": "first/second-person singular imperfect indicative of hocher"
+    },
+    {
+        "fr": "hochait",
+        "def": "third-person singular imperfect indicative of hocher"
+    },
+    {
+        "fr": "hochant",
+        "def": "present participle of hocher"
+    },
+    {
+        "fr": "hochas",
+        "def": "second-person singular past historic of hocher"
+    },
+    {
+        "fr": "hochasse",
+        "def": "first-person singular imperfect subjunctive of hocher"
+    },
+    {
+        "fr": "hochassent",
+        "def": "third-person plural imperfect subjunctive of hocher"
+    },
+    {
+        "fr": "hochasses",
+        "def": "second-person singular imperfect subjunctive of hocher"
+    },
+    {
+        "fr": "hochassiez",
+        "def": "second-person plural imperfect subjunctive of hocher"
+    },
+    {
+        "fr": "hochassions",
+        "def": "first-person plural imperfect subjunctive of hocher"
+    },
+    {
+        "fr": "hoche",
+        "def": "inflection of hocher:"
+    },
+    {
+        "fr": "hochement",
+        "def": "nod, shake (of the head)"
+    },
+    {
+        "fr": "hochements",
+        "def": "plural of hochement"
+    },
+    {
+        "fr": "hochent",
+        "def": "third-person plural present indicative/subjunctive of hocher"
+    },
+    {
+        "fr": "hochepot",
+        "def": "hodgepodge"
+    },
+    {
+        "fr": "hochepots",
+        "def": "plural of hochepot"
+    },
+    {
+        "fr": "hochequeue",
+        "def": "wagtail"
+    },
+    {
+        "fr": "hochequeues",
+        "def": "plural of hochequeue"
+    },
+    {
+        "fr": "hocher",
+        "def": "to nod (move one's head)"
+    },
+    {
+        "fr": "hochera",
+        "def": "third-person singular simple future of hocher"
+    },
+    {
+        "fr": "hocherai",
+        "def": "first-person singular simple future of hocher"
+    },
+    {
+        "fr": "hocheraient",
+        "def": "third-person plural conditional of hocher"
+    },
+    {
+        "fr": "hocherais",
+        "def": "first/second-person singular conditional of hocher"
+    },
+    {
+        "fr": "hocherait",
+        "def": "third-person singular conditional of hocher"
+    },
+    {
+        "fr": "hocheras",
+        "def": "second-person singular simple future of hocher"
+    },
+    {
+        "fr": "hocherez",
+        "def": "second-person plural simple future of hocher"
+    },
+    {
+        "fr": "hocheriez",
+        "def": "second-person plural conditional of hocher"
+    },
+    {
+        "fr": "hocherions",
+        "def": "first-person plural conditional of hocher"
+    },
+    {
+        "fr": "hocherons",
+        "def": "first-person plural simple future of hocher"
+    },
+    {
+        "fr": "hocheront",
+        "def": "third-person plural simple future of hocher"
+    },
+    {
+        "fr": "hoches",
+        "def": "second-person singular present indicative/subjunctive of hocher"
+    },
+    {
+        "fr": "hochet",
+        "def": "rattle (a baby's toy)"
+    },
+    {
+        "fr": "hochets",
+        "def": "plural of hochet"
+    },
+    {
+        "fr": "hochez",
+        "def": "inflection of hocher:"
+    },
+    {
+        "fr": "hochiez",
+        "def": "inflection of hocher:"
+    },
+    {
+        "fr": "hochions",
+        "def": "inflection of hocher:"
+    },
+    {
+        "fr": "hochons",
+        "def": "inflection of hocher:"
+    },
+    {
+        "fr": "hochâmes",
+        "def": "first-person plural past historic of hocher"
+    },
+    {
+        "fr": "hochât",
+        "def": "third-person singular imperfect subjunctive of hocher"
+    },
+    {
+        "fr": "hochâtes",
+        "def": "second-person plural past historic of hocher"
+    },
+    {
+        "fr": "hochèrent",
+        "def": "third-person plural past historic of hocher"
+    },
+    {
+        "fr": "hoché",
+        "def": "past participle of hocher"
+    },
+    {
+        "fr": "hochée",
+        "def": "feminine singular of hoché"
+    },
+    {
+        "fr": "hochées",
+        "def": "feminine plural of hoché"
+    },
+    {
+        "fr": "hochés",
+        "def": "masculine plural of hoché"
+    },
+    {
+        "fr": "hockey",
+        "def": "hockey | (North America) ice hockey"
+    },
+    {
+        "fr": "hockey-balle",
+        "def": "ball hockey"
+    },
+    {
+        "fr": "hockeyeur",
+        "def": "a hockey player"
+    },
+    {
+        "fr": "hockeyeurs",
+        "def": "plural of hockeyeur"
+    },
+    {
+        "fr": "hockeyeuse",
+        "def": "female equivalent of hockeyeur"
+    },
+    {
+        "fr": "hockeyeuses",
+        "def": "plural of hockeyeuse"
+    },
+    {
+        "fr": "hodjatoleslam",
+        "def": "hojatoleslam"
+    },
+    {
+        "fr": "hodographe",
+        "def": "hodograph"
+    },
+    {
+        "fr": "hoguine",
+        "def": "hoguine"
+    },
+    {
+        "fr": "hoguines",
+        "def": "plural of hoguine"
+    },
+    {
+        "fr": "hoir",
+        "def": "(law, chiefly in Switzerland, else literary, archaic) heir"
+    },
+    {
+        "fr": "hoirie",
+        "def": "(law) inheritance"
+    },
+    {
+        "fr": "hoiries",
+        "def": "plural of hoirie"
+    },
+    {
+        "fr": "hoirs",
+        "def": "plural of hoir"
+    },
+    {
+        "fr": "hola",
+        "def": "Mexican wave (a phenomenon at sports events)"
+    },
+    {
+        "fr": "holarctique",
+        "def": "holarctic"
+    },
+    {
+        "fr": "holas",
+        "def": "plural of hola"
+    },
+    {
+        "fr": "hold-up",
+        "def": "hold-up (robbery)"
+    },
+    {
+        "fr": "holding",
+        "def": "holding company"
+    },
+    {
+        "fr": "holdings",
+        "def": "plural of holding"
+    },
+    {
+        "fr": "holdup",
+        "def": "alternative spelling of hold-up"
+    },
+    {
+        "fr": "holistique",
+        "def": "holistic"
+    },
+    {
+        "fr": "holistiques",
+        "def": "plural of holistique"
+    },
+    {
+        "fr": "hollandais",
+        "def": "Hollandish (of or relating to Holland, historical province in the Netherlands) | (dated) Dutch, Netherlandish | (dated) Dutch (language)"
+    },
+    {
+        "fr": "hollandaise",
+        "def": "feminine singular of hollandais"
+    },
+    {
+        "fr": "hollandaises",
+        "def": "feminine plural of hollandais"
+    },
+    {
+        "fr": "hollywoodesque",
+        "def": "Hollywoodesque"
+    },
+    {
+        "fr": "hollywoodesques",
+        "def": "masculine plural of hollywoodesque"
+    },
+    {
+        "fr": "hollywoodien",
+        "def": "(relational) Hollywood | Hollywoodian"
+    },
+    {
+        "fr": "hollywoodienne",
+        "def": "feminine singular of hollywoodien"
+    },
+    {
+        "fr": "hollywoodiennes",
+        "def": "feminine plural of hollywoodien"
+    },
+    {
+        "fr": "hollywoodiens",
+        "def": "masculine plural of hollywoodien"
+    },
+    {
+        "fr": "holmate",
+        "def": "(inorganic chemistry) holmate"
+    },
+    {
+        "fr": "holmates",
+        "def": "plural of holmate"
+    },
+    {
+        "fr": "holmesien",
+        "def": "(rare) Holmesian"
+    },
+    {
+        "fr": "holmesienne",
+        "def": "feminine singular of holmesien"
+    },
+    {
+        "fr": "holmesiennes",
+        "def": "feminine plural of holmesien"
+    },
+    {
+        "fr": "holmesiens",
+        "def": "masculine plural of holmesien"
+    },
+    {
+        "fr": "holmium",
+        "def": "holmium"
+    },
+    {
+        "fr": "holocauste",
+        "def": "holocaust"
+    },
+    {
+        "fr": "holocaustes",
+        "def": "plural of holocauste"
+    },
+    {
+        "fr": "holocristallin",
+        "def": "holocrystalline"
+    },
+    {
+        "fr": "holocène",
+        "def": "Holocene"
+    },
+    {
+        "fr": "holocènes",
+        "def": "plural of holocène"
+    },
+    {
+        "fr": "hologame",
+        "def": "(biology) hologamous"
+    },
+    {
+        "fr": "hologames",
+        "def": "plural of hologame"
+    },
+    {
+        "fr": "hologrammatique",
+        "def": "hologrammatic"
+    },
+    {
+        "fr": "hologrammatiques",
+        "def": "plural of hologrammatique"
+    },
+    {
+        "fr": "hologramme",
+        "def": "hologram"
+    },
+    {
+        "fr": "hologrammes",
+        "def": "plural of hologramme"
+    },
+    {
+        "fr": "holographe",
+        "def": "holograph"
+    },
+    {
+        "fr": "holographie",
+        "def": "holography"
+    },
+    {
+        "fr": "holographies",
+        "def": "plural of holographie"
+    },
+    {
+        "fr": "holographique",
+        "def": "holographic"
+    },
+    {
+        "fr": "holographiques",
+        "def": "plural of holographique"
+    },
+    {
+        "fr": "holomorphe",
+        "def": "(mathematics) holomorphic (of a complex function)"
+    },
+    {
+        "fr": "holomorphes",
+        "def": "plural of holomorphe"
+    },
+    {
+        "fr": "holomorphose",
+        "def": "(biology) holomorphosis"
+    },
+    {
+        "fr": "holomorphoses",
+        "def": "plural of holomorphose"
+    },
+    {
+        "fr": "holométabole",
+        "def": "holometabole | holometabolous"
+    },
+    {
+        "fr": "holométaboles",
+        "def": "plural of holométabole"
+    },
+    {
+        "fr": "holométrique",
+        "def": "holometric"
+    },
+    {
+        "fr": "holonomie",
+        "def": "holonomy"
+    },
+    {
+        "fr": "holonomies",
+        "def": "plural of holonomie"
+    },
+    {
+        "fr": "holonyme",
+        "def": "holonym"
+    },
+    {
+        "fr": "holonymes",
+        "def": "plural of holonyme"
+    },
+    {
+        "fr": "holoparasitisme",
+        "def": "(biology) holoparasitism"
+    },
+    {
+        "fr": "holoparasitismes",
+        "def": "plural of holoparasitisme"
+    },
+    {
+        "fr": "holophrastique",
+        "def": "holophrastic"
+    },
+    {
+        "fr": "holophylie",
+        "def": "(biology) holophyly"
+    },
+    {
+        "fr": "holophylies",
+        "def": "plural of holophylie"
+    },
+    {
+        "fr": "holophylétiques",
+        "def": "plural of holophylétique"
+    },
+    {
+        "fr": "holoprotéine",
+        "def": "holoprotein"
+    },
+    {
+        "fr": "holoside",
+        "def": "(biochemistry) saccharide"
+    },
+    {
+        "fr": "holosides",
+        "def": "plural of holoside"
+    },
+    {
+        "fr": "holostéen",
+        "def": "holostean"
+    },
+    {
+        "fr": "holothurie",
+        "def": "(zoology) holothurian, sea cucumber"
+    },
+    {
+        "fr": "holothuries",
+        "def": "plural of holothurie"
+    },
+    {
+        "fr": "holoèdre",
+        "def": "holohedral crystal"
+    },
+    {
+        "fr": "holoèdres",
+        "def": "plural of holoèdre"
+    },
+    {
+        "fr": "holoédrie",
+        "def": "holohedry"
+    },
+    {
+        "fr": "holoédries",
+        "def": "plural of holoédrie"
+    },
+    {
+        "fr": "holoédrique",
+        "def": "holohedral"
+    },
+    {
+        "fr": "holoédriques",
+        "def": "plural of holoédrique"
+    },
+    {
+        "fr": "holà",
+        "def": "hey, oi"
+    },
+    {
+        "fr": "homard",
+        "def": "lobster (a crustacean of the Nephropidae, or Homaridae, family)"
+    },
+    {
+        "fr": "homarderie",
+        "def": "lobstery"
+    },
+    {
+        "fr": "homards",
+        "def": "plural of homard"
+    },
+    {
+        "fr": "hombre",
+        "def": "a kind of card game from Spain"
+    },
+    {
+        "fr": "hombres",
+        "def": "plural of hombre"
+    },
+    {
+        "fr": "homespun",
+        "def": "homespun (fabric)"
+    },
+    {
+        "fr": "homicida",
+        "def": "third-person singular past historic of homicider"
+    },
+    {
+        "fr": "homicidai",
+        "def": "first-person singular past historic of homicider"
+    },
+    {
+        "fr": "homicidaient",
+        "def": "third-person plural imperfect indicative of homicider"
+    },
+    {
+        "fr": "homicidais",
+        "def": "first/second-person singular imperfect indicative of homicider"
+    },
+    {
+        "fr": "homicidait",
+        "def": "third-person singular imperfect indicative of homicider"
+    },
+    {
+        "fr": "homicidant",
+        "def": "present participle of homicider"
+    },
+    {
+        "fr": "homicidas",
+        "def": "second-person singular past historic of homicider"
+    },
+    {
+        "fr": "homicidasse",
+        "def": "first-person singular imperfect subjunctive of homicider"
+    },
+    {
+        "fr": "homicidassent",
+        "def": "third-person plural imperfect subjunctive of homicider"
+    },
+    {
+        "fr": "homicidasses",
+        "def": "second-person singular imperfect subjunctive of homicider"
+    },
+    {
+        "fr": "homicidassiez",
+        "def": "second-person plural imperfect subjunctive of homicider"
+    },
+    {
+        "fr": "homicidassions",
+        "def": "first-person plural imperfect subjunctive of homicider"
+    },
+    {
+        "fr": "homicide",
+        "def": "homicide (killing of one person by another, whether premeditated or unintentional) | homicide, killer (person who kills another) | killer; that kills | inflection of homicider:"
+    },
+    {
+        "fr": "homicident",
+        "def": "third-person plural present indicative/subjunctive of homicider"
+    },
+    {
+        "fr": "homicider",
+        "def": "(transitive) to kill, commit homicide"
+    },
+    {
+        "fr": "homicidera",
+        "def": "third-person singular simple future of homicider"
+    },
+    {
+        "fr": "homiciderai",
+        "def": "first-person singular simple future of homicider"
+    },
+    {
+        "fr": "homicideraient",
+        "def": "third-person plural conditional of homicider"
+    },
+    {
+        "fr": "homiciderais",
+        "def": "first/second-person singular conditional of homicider"
+    },
+    {
+        "fr": "homiciderait",
+        "def": "third-person singular conditional of homicider"
+    },
+    {
+        "fr": "homicideras",
+        "def": "second-person singular simple future of homicider"
+    },
+    {
+        "fr": "homiciderez",
+        "def": "second-person plural simple future of homicider"
+    },
+    {
+        "fr": "homicideriez",
+        "def": "second-person plural conditional of homicider"
+    },
+    {
+        "fr": "homiciderions",
+        "def": "first-person plural conditional of homicider"
+    },
+    {
+        "fr": "homiciderons",
+        "def": "first-person plural simple future of homicider"
+    },
+    {
+        "fr": "homicideront",
+        "def": "third-person plural simple future of homicider"
+    },
+    {
+        "fr": "homicides",
+        "def": "second-person singular present indicative/subjunctive of homicider"
+    },
+    {
+        "fr": "homicidez",
+        "def": "inflection of homicider:"
+    },
+    {
+        "fr": "homicidiez",
+        "def": "inflection of homicider:"
+    },
+    {
+        "fr": "homicidions",
+        "def": "inflection of homicider:"
+    },
+    {
+        "fr": "homicidons",
+        "def": "inflection of homicider:"
+    },
+    {
+        "fr": "homicidâmes",
+        "def": "first-person plural past historic of homicider"
+    },
+    {
+        "fr": "homicidât",
+        "def": "third-person singular imperfect subjunctive of homicider"
+    },
+    {
+        "fr": "homicidâtes",
+        "def": "second-person plural past historic of homicider"
+    },
+    {
+        "fr": "homicidèrent",
+        "def": "third-person plural past historic of homicider"
+    },
+    {
+        "fr": "homicidé",
+        "def": "past participle of homicider"
+    },
+    {
+        "fr": "homicidée",
+        "def": "feminine singular of homicidé"
+    },
+    {
+        "fr": "homicidées",
+        "def": "feminine plural of homicidé"
+    },
+    {
+        "fr": "homicidés",
+        "def": "masculine plural of homicidé"
+    },
+    {
+        "fr": "homilétique",
+        "def": "homiletic"
+    },
+    {
+        "fr": "hominidé",
+        "def": "(zoology) hominid"
+    },
+    {
+        "fr": "hominidés",
+        "def": "plural of hominidé"
+    },
+    {
+        "fr": "hominisation",
+        "def": "(paleontology) hominization"
+    },
+    {
+        "fr": "hominisations",
+        "def": "plural of hominisation"
+    },
+    {
+        "fr": "hominiser",
+        "def": "(transitive) to transform into a human being, to hominize"
+    },
+    {
+        "fr": "hominivore",
+        "def": "man-eating"
+    },
+    {
+        "fr": "hominivores",
+        "def": "plural of hominivore"
+    },
+    {
+        "fr": "hommage",
+        "def": "homage"
+    },
+    {
+        "fr": "hommages",
+        "def": "plural of hommage"
+    },
+    {
+        "fr": "hommasse",
+        "def": "mannish | masculine"
+    },
+    {
+        "fr": "hommassement",
+        "def": "mannishly"
+    },
+    {
+        "fr": "hommasses",
+        "def": "plural of hommasse"
+    },
+    {
+        "fr": "homme",
+        "def": "man (adult male human) | man, Man (species) | man (employee) | (Louisiana) husband | (Louisiana) boyfriend"
+    },
+    {
+        "fr": "homme-animal",
+        "def": "(fantasy, mythology) wereman, werehuman"
+    },
+    {
+        "fr": "homme-grenouille",
+        "def": "frogman"
+    },
+    {
+        "fr": "homme-mort",
+        "def": "dead man's switch"
+    },
+    {
+        "fr": "homme-morts",
+        "def": "plural of homme-mort"
+    },
+    {
+        "fr": "homme-médecine",
+        "def": "medicine man (shamanistic healer)"
+    },
+    {
+        "fr": "homme-orchestre",
+        "def": "one-man band"
+    },
+    {
+        "fr": "homme-sandwich",
+        "def": "sandwich board man"
+    },
+    {
+        "fr": "hommelet",
+        "def": "small, or insignificant man"
+    },
+    {
+        "fr": "hommelets",
+        "def": "plural of hommelet"
+    },
+    {
+        "fr": "hommerie",
+        "def": "baseness or corruption of man"
+    },
+    {
+        "fr": "hommes",
+        "def": "plural of homme"
+    },
+    {
+        "fr": "hommes-médecine",
+        "def": "plural of homme-médecine"
+    },
+    {
+        "fr": "hommet",
+        "def": "casemate, bunker"
+    },
+    {
+        "fr": "homo",
+        "def": "gay (homosexual person, especially male) | gay, homo"
+    },
+    {
+        "fr": "homocaryon",
+        "def": "(biology) homokaryon"
+    },
+    {
+        "fr": "homocaryons",
+        "def": "plural of homocaryon"
+    },
+    {
+        "fr": "homocentrique",
+        "def": "(astronomy) homocentric"
+    },
+    {
+        "fr": "homocentriquement",
+        "def": "homocentrically"
+    },
+    {
+        "fr": "homocentriques",
+        "def": "plural of homocentrique"
+    },
+    {
+        "fr": "homocerque",
+        "def": "homocercal"
+    },
+    {
+        "fr": "homocerques",
+        "def": "plural of homocerque"
+    },
+    {
+        "fr": "homochromie",
+        "def": "homochromy"
+    },
+    {
+        "fr": "homocinétique",
+        "def": "homokinetic"
+    },
+    {
+        "fr": "homocyclique",
+        "def": "homocyclic"
+    },
+    {
+        "fr": "homocystéine",
+        "def": "(organic chemistry) homocysteine"
+    },
+    {
+        "fr": "homocystéines",
+        "def": "plural of homocystéine"
+    },
+    {
+        "fr": "homodiégétique",
+        "def": "homodiegetic"
+    },
+    {
+        "fr": "homodiégétiques",
+        "def": "plural of homodiégétique"
+    },
+    {
+        "fr": "homodonte",
+        "def": "homodont"
+    },
+    {
+        "fr": "homogame",
+        "def": "homogamous"
+    },
+    {
+        "fr": "homogamie",
+        "def": "homogamy"
+    },
+    {
+        "fr": "homogamies",
+        "def": "plural of homogamie"
+    },
+    {
+        "fr": "homogamétie",
+        "def": "homogamety"
+    },
+    {
+        "fr": "homogamétique",
+        "def": "homogametic"
+    },
+    {
+        "fr": "homoglyphe",
+        "def": "homoglyph"
+    },
+    {
+        "fr": "homoglyphes",
+        "def": "plural of homoglyphe"
+    },
+    {
+        "fr": "homographe",
+        "def": "homograph"
+    },
+    {
+        "fr": "homographes",
+        "def": "plural of homographe"
+    },
+    {
+        "fr": "homographie",
+        "def": "homography"
+    },
+    {
+        "fr": "homographique",
+        "def": "homographic"
+    },
+    {
+        "fr": "homogreffe",
+        "def": "homotransplantation"
+    },
+    {
+        "fr": "homogène",
+        "def": "homogeneous"
+    },
+    {
+        "fr": "homogènement",
+        "def": "homogeneously"
+    },
+    {
+        "fr": "homogènes",
+        "def": "plural of homogène"
+    },
+    {
+        "fr": "homogénéifier",
+        "def": "to homogenize"
+    },
+    {
+        "fr": "homogénéisa",
+        "def": "third-person singular past historic of homogénéiser"
+    },
+    {
+        "fr": "homogénéisai",
+        "def": "first-person singular past historic of homogénéiser"
+    },
+    {
+        "fr": "homogénéisaient",
+        "def": "third-person plural imperfect indicative of homogénéiser"
+    },
+    {
+        "fr": "homogénéisais",
+        "def": "first/second-person singular imperfect indicative of homogénéiser"
+    },
+    {
+        "fr": "homogénéisait",
+        "def": "third-person singular imperfect indicative of homogénéiser"
+    },
+    {
+        "fr": "homogénéisant",
+        "def": "present participle of homogénéiser"
+    },
+    {
+        "fr": "homogénéisas",
+        "def": "second-person singular past historic of homogénéiser"
+    },
+    {
+        "fr": "homogénéisasse",
+        "def": "first-person singular imperfect subjunctive of homogénéiser"
+    },
+    {
+        "fr": "homogénéisassent",
+        "def": "third-person plural imperfect subjunctive of homogénéiser"
+    },
+    {
+        "fr": "homogénéisasses",
+        "def": "second-person singular imperfect subjunctive of homogénéiser"
+    },
+    {
+        "fr": "homogénéisassiez",
+        "def": "second-person plural imperfect subjunctive of homogénéiser"
+    },
+    {
+        "fr": "homogénéisassions",
+        "def": "first-person plural imperfect subjunctive of homogénéiser"
+    },
+    {
+        "fr": "homogénéisateur",
+        "def": "homogenizer"
+    },
+    {
+        "fr": "homogénéisation",
+        "def": "homogenization"
+    },
+    {
+        "fr": "homogénéisations",
+        "def": "plural of homogénéisation"
+    },
+    {
+        "fr": "homogénéise",
+        "def": "inflection of homogénéiser:"
+    },
+    {
+        "fr": "homogénéisent",
+        "def": "third-person plural present indicative/subjunctive of homogénéiser"
+    },
+    {
+        "fr": "homogénéiser",
+        "def": "to homogenize"
+    },
+    {
+        "fr": "homogénéisera",
+        "def": "third-person singular simple future of homogénéiser"
+    },
+    {
+        "fr": "homogénéiserai",
+        "def": "first-person singular simple future of homogénéiser"
+    },
+    {
+        "fr": "homogénéiseraient",
+        "def": "third-person plural conditional of homogénéiser"
+    },
+    {
+        "fr": "homogénéiserais",
+        "def": "first/second-person singular conditional of homogénéiser"
+    },
+    {
+        "fr": "homogénéiserait",
+        "def": "third-person singular conditional of homogénéiser"
+    },
+    {
+        "fr": "homogénéiseras",
+        "def": "second-person singular simple future of homogénéiser"
+    },
+    {
+        "fr": "homogénéiserez",
+        "def": "second-person plural simple future of homogénéiser"
+    },
+    {
+        "fr": "homogénéiseriez",
+        "def": "second-person plural conditional of homogénéiser"
+    },
+    {
+        "fr": "homogénéiserions",
+        "def": "first-person plural conditional of homogénéiser"
+    },
+    {
+        "fr": "homogénéiserons",
+        "def": "first-person plural simple future of homogénéiser"
+    },
+    {
+        "fr": "homogénéiseront",
+        "def": "third-person plural simple future of homogénéiser"
+    },
+    {
+        "fr": "homogénéises",
+        "def": "second-person singular present indicative/subjunctive of homogénéiser"
+    },
+    {
+        "fr": "homogénéisez",
+        "def": "inflection of homogénéiser:"
+    },
+    {
+        "fr": "homogénéisiez",
+        "def": "inflection of homogénéiser:"
+    },
+    {
+        "fr": "homogénéisions",
+        "def": "inflection of homogénéiser:"
+    },
+    {
+        "fr": "homogénéisons",
+        "def": "inflection of homogénéiser:"
+    },
+    {
+        "fr": "homogénéisâmes",
+        "def": "first-person plural past historic of homogénéiser"
+    },
+    {
+        "fr": "homogénéisât",
+        "def": "third-person singular imperfect subjunctive of homogénéiser"
+    },
+    {
+        "fr": "homogénéisâtes",
+        "def": "second-person plural past historic of homogénéiser"
+    },
+    {
+        "fr": "homogénéisèrent",
+        "def": "third-person plural past historic of homogénéiser"
+    },
+    {
+        "fr": "homogénéisé",
+        "def": "past participle of homogénéiser | homogenized"
+    },
+    {
+        "fr": "homogénéisée",
+        "def": "feminine singular of homogénéisé"
+    },
+    {
+        "fr": "homogénéisées",
+        "def": "feminine plural of homogénéisé"
+    },
+    {
+        "fr": "homogénéisés",
+        "def": "masculine plural of homogénéisé"
+    },
+    {
+        "fr": "homogénéité",
+        "def": "homogeneity"
+    },
+    {
+        "fr": "homogénéités",
+        "def": "plural of homogénéité"
+    },
+    {
+        "fr": "homolactique",
+        "def": "(organic chemistry) homolactic"
+    },
+    {
+        "fr": "homolactiques",
+        "def": "plural of homolactique"
+    },
+    {
+        "fr": "homologable",
+        "def": "equivalent; comparable"
+    },
+    {
+        "fr": "homologation",
+        "def": "(law) homologation"
+    },
+    {
+        "fr": "homologations",
+        "def": "plural of homologation"
+    },
+    {
+        "fr": "homologie",
+        "def": "homology"
+    },
+    {
+        "fr": "homologique",
+        "def": "homological"
+    },
+    {
+        "fr": "homologiquement",
+        "def": "homologically"
+    },
+    {
+        "fr": "homologiques",
+        "def": "plural of homologique"
+    },
+    {
+        "fr": "homologua",
+        "def": "third-person singular past historic of homologuer"
+    },
+    {
+        "fr": "homologuai",
+        "def": "first-person singular past historic of homologuer"
+    },
+    {
+        "fr": "homologuaient",
+        "def": "third-person plural imperfect indicative of homologuer"
+    },
+    {
+        "fr": "homologuais",
+        "def": "first/second-person singular imperfect indicative of homologuer"
+    },
+    {
+        "fr": "homologuait",
+        "def": "third-person singular imperfect indicative of homologuer"
+    },
+    {
+        "fr": "homologuant",
+        "def": "present participle of homologuer"
+    },
+    {
+        "fr": "homologuas",
+        "def": "second-person singular past historic of homologuer"
+    },
+    {
+        "fr": "homologuasse",
+        "def": "first-person singular imperfect subjunctive of homologuer"
+    },
+    {
+        "fr": "homologuassent",
+        "def": "third-person plural imperfect subjunctive of homologuer"
+    },
+    {
+        "fr": "homologuasses",
+        "def": "second-person singular imperfect subjunctive of homologuer"
+    },
+    {
+        "fr": "homologuassiez",
+        "def": "second-person plural imperfect subjunctive of homologuer"
+    },
+    {
+        "fr": "homologuassions",
+        "def": "first-person plural imperfect subjunctive of homologuer"
+    },
+    {
+        "fr": "homologue",
+        "def": "homologous (all meanings) | counterpart | inflection of homologuer (“to officially recognize, ratify”):"
+    },
+    {
+        "fr": "homologuent",
+        "def": "third-person plural present indicative/subjunctive of homologuer"
+    },
+    {
+        "fr": "homologuer",
+        "def": "to officially recognize, ratify"
+    },
+    {
+        "fr": "homologuera",
+        "def": "third-person singular simple future of homologuer"
+    },
+    {
+        "fr": "homologuerai",
+        "def": "first-person singular simple future of homologuer"
+    },
+    {
+        "fr": "homologueraient",
+        "def": "third-person plural conditional of homologuer"
+    },
+    {
+        "fr": "homologuerais",
+        "def": "first/second-person singular conditional of homologuer"
+    },
+    {
+        "fr": "homologuerait",
+        "def": "third-person singular conditional of homologuer"
+    },
+    {
+        "fr": "homologueras",
+        "def": "second-person singular simple future of homologuer"
+    },
+    {
+        "fr": "homologuerez",
+        "def": "second-person plural simple future of homologuer"
+    },
+    {
+        "fr": "homologueriez",
+        "def": "second-person plural conditional of homologuer"
+    },
+    {
+        "fr": "homologuerions",
+        "def": "first-person plural conditional of homologuer"
+    },
+    {
+        "fr": "homologuerons",
+        "def": "first-person plural simple future of homologuer"
+    },
+    {
+        "fr": "homologueront",
+        "def": "third-person plural simple future of homologuer"
+    },
+    {
+        "fr": "homologues",
+        "def": "second-person singular present indicative/subjunctive of homologuer"
+    },
+    {
+        "fr": "homologuez",
+        "def": "inflection of homologuer:"
+    },
+    {
+        "fr": "homologuiez",
+        "def": "inflection of homologuer:"
+    },
+    {
+        "fr": "homologuions",
+        "def": "inflection of homologuer:"
+    },
+    {
+        "fr": "homologuons",
+        "def": "inflection of homologuer:"
+    },
+    {
+        "fr": "homologuâmes",
+        "def": "first-person plural past historic of homologuer"
+    },
+    {
+        "fr": "homologuât",
+        "def": "third-person singular imperfect subjunctive of homologuer"
+    },
+    {
+        "fr": "homologuâtes",
+        "def": "second-person plural past historic of homologuer"
+    },
+    {
+        "fr": "homologuèrent",
+        "def": "third-person plural past historic of homologuer"
+    },
+    {
+        "fr": "homologué",
+        "def": "past participle of homologuer"
+    },
+    {
+        "fr": "homologuée",
+        "def": "feminine singular of homologué"
+    },
+    {
+        "fr": "homologuées",
+        "def": "feminine plural of homologué"
+    },
+    {
+        "fr": "homologués",
+        "def": "masculine plural of homologué"
+    },
+    {
+        "fr": "homolécithe",
+        "def": "homolecithal"
+    },
+    {
+        "fr": "homolécithes",
+        "def": "plural of homolécithe"
+    },
+    {
+        "fr": "homomorphe",
+        "def": "homomorphic, homomorphous"
+    },
+    {
+        "fr": "homomorphes",
+        "def": "plural of homomorphe"
+    },
+    {
+        "fr": "homomorphique",
+        "def": "homomorphic"
+    },
+    {
+        "fr": "homomorphiquement",
+        "def": "homomorphically"
+    },
+    {
+        "fr": "homomorphiques",
+        "def": "plural of homomorphique"
+    },
+    {
+        "fr": "homomorphisme",
+        "def": "homomorphism"
+    },
+    {
+        "fr": "homomorphismes",
+        "def": "plural of homomorphisme"
+    },
+    {
+        "fr": "homoncule",
+        "def": "alternative form of homuncule"
+    },
+    {
+        "fr": "homoncules",
+        "def": "plural of homoncule"
+    },
+    {
+        "fr": "homonucléaire",
+        "def": "(chemistry) homonuclear"
+    },
+    {
+        "fr": "homonucléaires",
+        "def": "plural of homonucléaire"
+    },
+    {
+        "fr": "homonyme",
+        "def": "homonymous | homonym (word with the same sound or spelling but different meaning) | namesake"
+    },
+    {
+        "fr": "homonymement",
+        "def": "homonymously"
+    },
+    {
+        "fr": "homonymes",
+        "def": "plural of homonyme"
+    },
+    {
+        "fr": "homonymie",
+        "def": "homonymy (property of being a homonym)"
+    },
+    {
+        "fr": "homonymique",
+        "def": "homonymic"
+    },
+    {
+        "fr": "homoparentalité",
+        "def": "LGBT parenting"
+    },
+    {
+        "fr": "homoparentalités",
+        "def": "plural of homoparentalité"
+    },
+    {
+        "fr": "homophobe",
+        "def": "homophobic | homophobe"
+    },
+    {
+        "fr": "homophobes",
+        "def": "plural of homophobe"
+    },
+    {
+        "fr": "homophobie",
+        "def": "homophobia, antipathy towards homosexuals"
+    },
+    {
+        "fr": "homophobies",
+        "def": "plural of homophobie"
+    },
+    {
+        "fr": "homophone",
+        "def": "homophonous | (semantics) homophone"
+    },
+    {
+        "fr": "homophones",
+        "def": "plural of homophone"
+    },
+    {
+        "fr": "homophonie",
+        "def": "homophony"
+    },
+    {
+        "fr": "homophonies",
+        "def": "plural of homophonie"
+    },
+    {
+        "fr": "homophtalique",
+        "def": "(organic chemistry) homophthalic"
+    },
+    {
+        "fr": "homophtaliques",
+        "def": "plural of homophtalique"
+    },
+    {
+        "fr": "homoplasie",
+        "def": "(biology) homoplasy"
+    },
+    {
+        "fr": "homoplasique",
+        "def": "(biology) homoplasic"
+    },
+    {
+        "fr": "homoplasiques",
+        "def": "plural of homoplasique"
+    },
+    {
+        "fr": "homopolymère",
+        "def": "(chemistry) homopolymer"
+    },
+    {
+        "fr": "homopolymères",
+        "def": "plural of homopolymère"
+    },
+    {
+        "fr": "homopolymérisa",
+        "def": "third-person singular past historic of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisai",
+        "def": "first-person singular past historic of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisaient",
+        "def": "third-person plural imperfect indicative of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisais",
+        "def": "first/second-person singular imperfect indicative of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisait",
+        "def": "third-person singular imperfect indicative of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisant",
+        "def": "present participle of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisas",
+        "def": "second-person singular past historic of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisasse",
+        "def": "first-person singular imperfect subjunctive of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisassent",
+        "def": "third-person plural imperfect subjunctive of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisasses",
+        "def": "second-person singular imperfect subjunctive of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisassiez",
+        "def": "second-person plural imperfect subjunctive of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisassions",
+        "def": "first-person plural imperfect subjunctive of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisation",
+        "def": "(organic chemistry) homopolymerization"
+    },
+    {
+        "fr": "homopolymérisations",
+        "def": "plural of homopolymérisation"
+    },
+    {
+        "fr": "homopolymérise",
+        "def": "inflection of homopolymériser:"
+    },
+    {
+        "fr": "homopolymérisent",
+        "def": "third-person plural present indicative/subjunctive of homopolymériser"
+    },
+    {
+        "fr": "homopolymériser",
+        "def": "(organic chemistry) to homopolymerize"
+    },
+    {
+        "fr": "homopolymérisera",
+        "def": "third-person singular simple future of homopolymériser"
+    },
+    {
+        "fr": "homopolymériserai",
+        "def": "first-person singular simple future of homopolymériser"
+    },
+    {
+        "fr": "homopolymériseraient",
+        "def": "third-person plural conditional of homopolymériser"
+    },
+    {
+        "fr": "homopolymériserais",
+        "def": "first/second-person singular conditional of homopolymériser"
+    },
+    {
+        "fr": "homopolymériserait",
+        "def": "third-person singular conditional of homopolymériser"
+    },
+    {
+        "fr": "homopolymériseras",
+        "def": "second-person singular simple future of homopolymériser"
+    },
+    {
+        "fr": "homopolymériserez",
+        "def": "second-person plural simple future of homopolymériser"
+    },
+    {
+        "fr": "homopolymériseriez",
+        "def": "second-person plural conditional of homopolymériser"
+    },
+    {
+        "fr": "homopolymériserions",
+        "def": "first-person plural conditional of homopolymériser"
+    },
+    {
+        "fr": "homopolymériserons",
+        "def": "first-person plural simple future of homopolymériser"
+    },
+    {
+        "fr": "homopolymériseront",
+        "def": "third-person plural simple future of homopolymériser"
+    },
+    {
+        "fr": "homopolymérises",
+        "def": "second-person singular present indicative/subjunctive of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisez",
+        "def": "inflection of homopolymériser:"
+    },
+    {
+        "fr": "homopolymérisiez",
+        "def": "inflection of homopolymériser:"
+    },
+    {
+        "fr": "homopolymérisions",
+        "def": "inflection of homopolymériser:"
+    },
+    {
+        "fr": "homopolymérisons",
+        "def": "inflection of homopolymériser:"
+    },
+    {
+        "fr": "homopolymérisâmes",
+        "def": "first-person plural past historic of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisât",
+        "def": "third-person singular imperfect subjunctive of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisâtes",
+        "def": "second-person plural past historic of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisèrent",
+        "def": "third-person plural past historic of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisé",
+        "def": "past participle of homopolymériser"
+    },
+    {
+        "fr": "homopolymérisée",
+        "def": "feminine singular of homopolymérisé"
+    },
+    {
+        "fr": "homopolymérisées",
+        "def": "feminine plural of homopolymérisé"
+    },
+    {
+        "fr": "homopolymérisés",
+        "def": "masculine plural of homopolymérisé"
+    },
+    {
+        "fr": "homopolyoside",
+        "def": "(biochemistry) homopolysaccharide"
+    },
+    {
+        "fr": "homopolyosides",
+        "def": "plural of homopolyoside"
+    },
+    {
+        "fr": "homoptère",
+        "def": "homopter"
+    },
+    {
+        "fr": "homoptères",
+        "def": "plural of homoptère"
+    },
+    {
+        "fr": "homorgane",
+        "def": "(phonetics, phonology) homorganic"
+    },
+    {
+        "fr": "homorganes",
+        "def": "plural of homorgane"
+    },
+    {
+        "fr": "homorganique",
+        "def": "homorganic"
+    },
+    {
+        "fr": "homorythmique",
+        "def": "homorhythmic"
+    },
+    {
+        "fr": "homos",
+        "def": "plural of homo"
+    },
+    {
+        "fr": "homoscédasticité",
+        "def": "(statistics) homoscedasticity"
+    },
+    {
+        "fr": "homoscédasticités",
+        "def": "plural of homoscédasticité"
+    },
+    {
+        "fr": "homoscédastique",
+        "def": "(statistics) homoscedastic"
+    },
+    {
+        "fr": "homoscédastiques",
+        "def": "plural of homoscédastique"
+    },
+    {
+        "fr": "homosexualisation",
+        "def": "homosexualization"
+    },
+    {
+        "fr": "homosexualité",
+        "def": "homosexuality"
+    },
+    {
+        "fr": "homosexualités",
+        "def": "plural of homosexualité"
+    },
+    {
+        "fr": "homosexuel",
+        "def": "homosexual"
+    },
+    {
+        "fr": "homosexuelle",
+        "def": "feminine singular of homosexuel | female equivalent of homosexuel"
+    },
+    {
+        "fr": "homosexuellement",
+        "def": "homosexually"
+    },
+    {
+        "fr": "homosexuelles",
+        "def": "feminine plural of homosexuel"
+    },
+    {
+        "fr": "homosexuels",
+        "def": "masculine plural of homosexuel | plural of homosexuel"
+    },
+    {
+        "fr": "homosociabilité",
+        "def": "homosociality (homosexual sociality)"
+    },
+    {
+        "fr": "homosociabilités",
+        "def": "plural of homosociabilité"
+    },
+    {
+        "fr": "homosocialité",
+        "def": "homosociality"
+    },
+    {
+        "fr": "homosocialités",
+        "def": "plural of homosocialité"
+    },
+    {
+        "fr": "homotaxique",
+        "def": "homotaxic"
+    },
+    {
+        "fr": "homotaxiques",
+        "def": "plural of homotaxique"
+    },
+    {
+        "fr": "homothermal",
+        "def": "homothermic"
+    },
+    {
+        "fr": "homothermale",
+        "def": "feminine singular of homothermal"
+    },
+    {
+        "fr": "homothermales",
+        "def": "feminine plural of homothermal"
+    },
+    {
+        "fr": "homothermaux",
+        "def": "masculine plural of homothermal"
+    },
+    {
+        "fr": "homothétie",
+        "def": "(mathematics) homothety"
+    },
+    {
+        "fr": "homothéties",
+        "def": "plural of homothétie"
+    },
+    {
+        "fr": "homothétique",
+        "def": "homothetic"
+    },
+    {
+        "fr": "homothétiquement",
+        "def": "homothetically"
+    },
+    {
+        "fr": "homothétiques",
+        "def": "plural of homothétique"
+    },
+    {
+        "fr": "homotopicité",
+        "def": "(mathematics) homotopicity"
+    },
+    {
+        "fr": "homotopicités",
+        "def": "plural of homotopicité"
+    },
+    {
+        "fr": "homotopie",
+        "def": "(mathematics) homotopy"
+    },
+    {
+        "fr": "homotopies",
+        "def": "plural of homotopie"
+    },
+    {
+        "fr": "homotopique",
+        "def": "(mathematics) homotopic"
+    },
+    {
+        "fr": "homotopiques",
+        "def": "plural of homotopique"
+    },
+    {
+        "fr": "homotypique",
+        "def": "homotypic"
+    },
+    {
+        "fr": "homotypiquement",
+        "def": "homotypically"
+    },
+    {
+        "fr": "homotypiques",
+        "def": "plural of homotypique"
+    },
+    {
+        "fr": "homozygose",
+        "def": "homozygosis"
+    },
+    {
+        "fr": "homozygoses",
+        "def": "plural of homozygose"
+    },
+    {
+        "fr": "homoérotique",
+        "def": "homoerotic"
+    },
+    {
+        "fr": "homoérotiques",
+        "def": "plural of homoérotique"
+    },
+    {
+        "fr": "homoérotisa",
+        "def": "third-person singular past historic of homoérotiser"
+    },
+    {
+        "fr": "homoérotisai",
+        "def": "first-person singular past historic of homoérotiser"
+    },
+    {
+        "fr": "homoérotisaient",
+        "def": "third-person plural imperfect indicative of homoérotiser"
+    },
+    {
+        "fr": "homoérotisais",
+        "def": "first/second-person singular imperfect indicative of homoérotiser"
+    },
+    {
+        "fr": "homoérotisait",
+        "def": "third-person singular imperfect indicative of homoérotiser"
+    },
+    {
+        "fr": "homoérotisant",
+        "def": "present participle of homoérotiser"
+    },
+    {
+        "fr": "homoérotisas",
+        "def": "second-person singular past historic of homoérotiser"
+    },
+    {
+        "fr": "homoérotisasse",
+        "def": "first-person singular imperfect subjunctive of homoérotiser"
+    },
+    {
+        "fr": "homoérotisassent",
+        "def": "third-person plural imperfect subjunctive of homoérotiser"
+    },
+    {
+        "fr": "homoérotisasses",
+        "def": "second-person singular imperfect subjunctive of homoérotiser"
+    },
+    {
+        "fr": "homoérotisassiez",
+        "def": "second-person plural imperfect subjunctive of homoérotiser"
+    },
+    {
+        "fr": "homoérotisassions",
+        "def": "first-person plural imperfect subjunctive of homoérotiser"
+    },
+    {
+        "fr": "homoérotise",
+        "def": "inflection of homoérotiser:"
+    },
+    {
+        "fr": "homoérotisent",
+        "def": "third-person plural present indicative/subjunctive of homoérotiser"
+    },
+    {
+        "fr": "homoérotiser",
+        "def": "to homoeroticize"
+    },
+    {
+        "fr": "homoérotisera",
+        "def": "third-person singular simple future of homoérotiser"
+    },
+    {
+        "fr": "homoérotiserai",
+        "def": "first-person singular simple future of homoérotiser"
+    },
+    {
+        "fr": "homoérotiseraient",
+        "def": "third-person plural conditional of homoérotiser"
+    },
+    {
+        "fr": "homoérotiserais",
+        "def": "first/second-person singular conditional of homoérotiser"
+    },
+    {
+        "fr": "homoérotiserait",
+        "def": "third-person singular conditional of homoérotiser"
+    },
+    {
+        "fr": "homoérotiseras",
+        "def": "second-person singular simple future of homoérotiser"
+    },
+    {
+        "fr": "homoérotiserez",
+        "def": "second-person plural simple future of homoérotiser"
+    },
+    {
+        "fr": "homoérotiseriez",
+        "def": "second-person plural conditional of homoérotiser"
+    },
+    {
+        "fr": "homoérotiserions",
+        "def": "first-person plural conditional of homoérotiser"
+    },
+    {
+        "fr": "homoérotiserons",
+        "def": "first-person plural simple future of homoérotiser"
+    },
+    {
+        "fr": "homoérotiseront",
+        "def": "third-person plural simple future of homoérotiser"
+    },
+    {
+        "fr": "homoérotises",
+        "def": "second-person singular present indicative/subjunctive of homoérotiser"
+    },
+    {
+        "fr": "homoérotisez",
+        "def": "inflection of homoérotiser:"
+    },
+    {
+        "fr": "homoérotisiez",
+        "def": "inflection of homoérotiser:"
+    },
+    {
+        "fr": "homoérotisions",
+        "def": "inflection of homoérotiser:"
+    },
+    {
+        "fr": "homoérotisme",
+        "def": "homoeroticism"
+    },
+    {
+        "fr": "homoérotisons",
+        "def": "inflection of homoérotiser:"
+    },
+    {
+        "fr": "homoérotisâmes",
+        "def": "first-person plural past historic of homoérotiser"
+    },
+    {
+        "fr": "homoérotisât",
+        "def": "third-person singular imperfect subjunctive of homoérotiser"
+    },
+    {
+        "fr": "homoérotisâtes",
+        "def": "second-person plural past historic of homoérotiser"
+    },
+    {
+        "fr": "homoérotisèrent",
+        "def": "third-person plural past historic of homoérotiser"
+    },
+    {
+        "fr": "homoérotisé",
+        "def": "past participle of homoérotiser"
+    },
+    {
+        "fr": "homoérotisée",
+        "def": "feminine singular of homoérotisé"
+    },
+    {
+        "fr": "homoérotisées",
+        "def": "feminine plural of homoérotisé"
+    },
+    {
+        "fr": "homoérotisés",
+        "def": "masculine plural of homoérotisé"
+    },
+    {
+        "fr": "homsiote",
+        "def": "Homsi"
+    },
+    {
+        "fr": "homsiotes",
+        "def": "plural of homsiote"
+    },
+    {
+        "fr": "homuncule",
+        "def": "(alchemy) homunculus | (derogatory) homunculus; little man"
+    },
+    {
+        "fr": "homélie",
+        "def": "(religion) homily"
+    },
+    {
+        "fr": "homélies",
+        "def": "plural of homélie"
+    },
+    {
+        "fr": "homéomorphe",
+        "def": "(mathematics) homeomorphic"
+    },
+    {
+        "fr": "homéomorphes",
+        "def": "plural of homéomorphe"
+    },
+    {
+        "fr": "homéomorphisme",
+        "def": "(mathematics) homeomorphism"
+    },
+    {
+        "fr": "homéomorphismes",
+        "def": "plural of homéomorphisme"
+    },
+    {
+        "fr": "homéopathe",
+        "def": "homeopath | homeopathic"
+    },
+    {
+        "fr": "homéopathes",
+        "def": "plural of homéopathe"
+    },
+    {
+        "fr": "homéopathie",
+        "def": "homeopathy (system of treating diseases with very small amounts)"
+    },
+    {
+        "fr": "homéopathies",
+        "def": "plural of homéopathie"
+    },
+    {
+        "fr": "homéopathique",
+        "def": "homoeopathic, homœopathic, homeopathic"
+    },
+    {
+        "fr": "homéopathiquement",
+        "def": "homeopathically"
+    },
+    {
+        "fr": "homéopathiques",
+        "def": "plural of homéopathique"
+    },
+    {
+        "fr": "homéose",
+        "def": "(biology) homeosis, homoiosis"
+    },
+    {
+        "fr": "homéoses",
+        "def": "plural of homéose"
+    },
+    {
+        "fr": "homéostasie",
+        "def": "homeostasis (ability to stablize internal environment)"
+    },
+    {
+        "fr": "homéostat",
+        "def": "homeostat"
+    },
+    {
+        "fr": "homéostatique",
+        "def": "(biology) homeostatic"
+    },
+    {
+        "fr": "homéostatiques",
+        "def": "plural of homéostatique"
+    },
+    {
+        "fr": "homéostats",
+        "def": "plural of homéostat"
+    },
+    {
+        "fr": "homéotherme",
+        "def": "homeothermic, warm-blooded"
+    },
+    {
+        "fr": "homéothermes",
+        "def": "plural of homéotherme"
+    },
+    {
+        "fr": "homéothermie",
+        "def": "homeothermy, warm-bloodedness"
+    },
+    {
+        "fr": "homéothermies",
+        "def": "plural of homéothermie"
+    },
+    {
+        "fr": "homéotique",
+        "def": "homeotic"
+    },
+    {
+        "fr": "homéotiques",
+        "def": "plural of homéotique"
+    },
+    {
+        "fr": "homéride",
+        "def": "Homerid"
+    },
+    {
+        "fr": "homérien",
+        "def": "(relational) of Homer; Homeric, Homerian"
+    },
+    {
+        "fr": "homérienne",
+        "def": "feminine singular of homérien"
+    },
+    {
+        "fr": "homériennes",
+        "def": "feminine plural of homérien"
+    },
+    {
+        "fr": "homériens",
+        "def": "masculine plural of homérien"
+    },
+    {
+        "fr": "homérique",
+        "def": "(relational) of Homer; Homeric"
+    },
+    {
+        "fr": "homériquement",
+        "def": "Homerically"
+    },
+    {
+        "fr": "homériques",
+        "def": "plural of homérique"
+    },
+    {
+        "fr": "homœomorphe",
+        "def": "alternative form of homéomorphe"
+    },
+    {
+        "fr": "homœomorphes",
+        "def": "plural of homœomorphe"
+    },
+    {
+        "fr": "homœomorphisme",
+        "def": "alternative form of homéomorphisme"
+    },
+    {
+        "fr": "homœomorphismes",
+        "def": "plural of homœomorphisme"
+    },
+    {
+        "fr": "homœopathe",
+        "def": "alternative form of homéopathe"
+    },
+    {
+        "fr": "homœopathes",
+        "def": "plural of homœopathe"
+    },
+    {
+        "fr": "homœopathie",
+        "def": "alternative spelling of homéopathie"
+    },
+    {
+        "fr": "homœopathies",
+        "def": "plural of homœopathie"
+    },
+    {
+        "fr": "homœopathique",
+        "def": "alternative form of homéopathique"
+    },
+    {
+        "fr": "homœopathiquement",
+        "def": "alternative form of homéopathiquement"
+    },
+    {
+        "fr": "homœopathiques",
+        "def": "plural of homœopathique"
+    },
+    {
+        "fr": "homœostasie",
+        "def": "alternative form of homéostasie"
+    },
+    {
+        "fr": "homœotherme",
+        "def": "alternative form of homéotherme"
+    },
+    {
+        "fr": "homœothermes",
+        "def": "plural of homœotherme"
+    },
+    {
+        "fr": "hon",
+        "def": "(dated) Representing laughter; ha, hon | (4chan /lgbt/ slang, derogatory, offensive) hon"
+    },
+    {
+        "fr": "hon.",
+        "def": "(law) Hon. abbreviation of honorable | (politics) Hon. abbreviation of honorable"
+    },
+    {
+        "fr": "hondurien",
+        "def": "(relational) of Honduras; Honduran"
+    },
+    {
+        "fr": "hondurienne",
+        "def": "feminine singular of hondurien"
+    },
+    {
+        "fr": "honduriennes",
+        "def": "feminine plural of hondurien"
+    },
+    {
+        "fr": "honduriens",
+        "def": "masculine plural of hondurien"
+    },
+    {
+        "fr": "honeggérien",
+        "def": "Honeggerian"
+    },
+    {
+        "fr": "hongkongais",
+        "def": "(relational) of Hong Kong"
+    },
+    {
+        "fr": "hongkongaise",
+        "def": "feminine singular of hongkongais"
+    },
+    {
+        "fr": "hongkongaises",
+        "def": "feminine plural of hongkongais"
+    },
+    {
+        "fr": "hongre",
+        "def": "gelded | gelding (gelded, castrated male horse) | inflection of hongrer:"
+    },
+    {
+        "fr": "hongres",
+        "def": "plural of hongre"
+    },
+    {
+        "fr": "hongrois",
+        "def": "Hungarian, the language of Hungary | Hungarian"
+    },
+    {
+        "fr": "hongroise",
+        "def": "feminine singular of hongrois"
+    },
+    {
+        "fr": "hongroises",
+        "def": "feminine plural of hongrois"
+    },
+    {
+        "fr": "hongrémanien",
+        "def": "Of or from Magny-le-Hongre"
+    },
+    {
+        "fr": "honneste",
+        "def": "archaic spelling of honnête"
+    },
+    {
+        "fr": "honnestes",
+        "def": "plural of honneste"
+    },
+    {
+        "fr": "honneur",
+        "def": "honor | (card games) face card"
+    },
+    {
+        "fr": "honneurs",
+        "def": "plural of honneur"
+    },
+    {
+        "fr": "honni",
+        "def": "past participle of honnir"
+    },
+    {
+        "fr": "honnie",
+        "def": "feminine singular of honni"
+    },
+    {
+        "fr": "honnies",
+        "def": "feminine plural of honni"
+    },
+    {
+        "fr": "honnir",
+        "def": "(archaic, literary, transitive) to shame; to disgrace; to dishonor"
+    },
+    {
+        "fr": "honnira",
+        "def": "third-person singular simple future of honnir"
+    },
+    {
+        "fr": "honnirai",
+        "def": "first-person singular simple future of honnir"
+    },
+    {
+        "fr": "honniraient",
+        "def": "third-person plural conditional of honnir"
+    },
+    {
+        "fr": "honnirais",
+        "def": "first/second-person singular conditional of honnir"
+    },
+    {
+        "fr": "honnirait",
+        "def": "third-person singular conditional of honnir"
+    },
+    {
+        "fr": "honniras",
+        "def": "second-person singular simple future of honnir"
+    },
+    {
+        "fr": "honnirent",
+        "def": "third-person plural past historic of honnir"
+    },
+    {
+        "fr": "honnirez",
+        "def": "second-person plural simple future of honnir"
+    },
+    {
+        "fr": "honniriez",
+        "def": "second-person plural conditional of honnir"
+    },
+    {
+        "fr": "honnirions",
+        "def": "first-person plural conditional of honnir"
+    },
+    {
+        "fr": "honnirons",
+        "def": "first-person plural simple future of honnir"
+    },
+    {
+        "fr": "honniront",
+        "def": "third-person plural simple future of honnir"
+    },
+    {
+        "fr": "honnis",
+        "def": "inflection of honnir: | masculine plural of honni"
+    },
+    {
+        "fr": "honnissaient",
+        "def": "third-person plural imperfect indicative of honnir"
+    },
+    {
+        "fr": "honnissais",
+        "def": "first/second-person singular imperfect indicative of honnir"
+    },
+    {
+        "fr": "honnissait",
+        "def": "third-person singular imperfect indicative of honnir"
+    },
+    {
+        "fr": "honnissant",
+        "def": "present participle of honnir"
+    },
+    {
+        "fr": "honnisse",
+        "def": "inflection of honnir:"
+    },
+    {
+        "fr": "honnissent",
+        "def": "inflection of honnir:"
+    },
+    {
+        "fr": "honnisses",
+        "def": "second-person singular present/imperfect subjunctive of honnir"
+    },
+    {
+        "fr": "honnissez",
+        "def": "inflection of honnir:"
+    },
+    {
+        "fr": "honnissiez",
+        "def": "inflection of honnir:"
+    },
+    {
+        "fr": "honnissions",
+        "def": "inflection of honnir:"
+    },
+    {
+        "fr": "honnissons",
+        "def": "inflection of honnir:"
+    },
+    {
+        "fr": "honnit",
+        "def": "inflection of honnir:"
+    },
+    {
+        "fr": "honnête",
+        "def": "honest (scrupulous with regard to telling the truth) | decent, acceptable"
+    },
+    {
+        "fr": "honnêtement",
+        "def": "honestly (in an honest way)"
+    },
+    {
+        "fr": "honnêtes",
+        "def": "plural of honnête"
+    },
+    {
+        "fr": "honnêteté",
+        "def": "honesty"
+    },
+    {
+        "fr": "honnêtetés",
+        "def": "plural of honnêteté"
+    },
+    {
+        "fr": "honnîmes",
+        "def": "first-person plural past historic of honnir"
+    },
+    {
+        "fr": "honnît",
+        "def": "third-person singular imperfect subjunctive of honnir"
+    },
+    {
+        "fr": "honnîtes",
+        "def": "second-person plural past historic of honnir"
+    },
+    {
+        "fr": "honora",
+        "def": "third-person singular past historic of honorer"
+    },
+    {
+        "fr": "honorabilité",
+        "def": "honour, repute"
+    },
+    {
+        "fr": "honorabilités",
+        "def": "plural of honorabilité"
+    },
+    {
+        "fr": "honorable",
+        "def": "honorable"
+    },
+    {
+        "fr": "honorablement",
+        "def": "honorably"
+    },
+    {
+        "fr": "honorables",
+        "def": "plural of honorable"
+    },
+    {
+        "fr": "honorai",
+        "def": "first-person singular past historic of honorer"
+    },
+    {
+        "fr": "honoraient",
+        "def": "third-person plural imperfect indicative of honorer"
+    },
+    {
+        "fr": "honoraire",
+        "def": "honorary"
+    },
+    {
+        "fr": "honoraires",
+        "def": "(plural only) honorarium | plural of honoraire"
+    },
+    {
+        "fr": "honorais",
+        "def": "first/second-person singular imperfect indicative of honorer"
+    },
+    {
+        "fr": "honorait",
+        "def": "third-person singular imperfect indicative of honorer"
+    },
+    {
+        "fr": "honorant",
+        "def": "present participle of honorer"
+    },
+    {
+        "fr": "honoras",
+        "def": "second-person singular past historic of honorer"
+    },
+    {
+        "fr": "honorasse",
+        "def": "first-person singular imperfect subjunctive of honorer"
+    },
+    {
+        "fr": "honorassent",
+        "def": "third-person plural imperfect subjunctive of honorer"
+    },
+    {
+        "fr": "honorasses",
+        "def": "second-person singular imperfect subjunctive of honorer"
+    },
+    {
+        "fr": "honorassiez",
+        "def": "second-person plural imperfect subjunctive of honorer"
+    },
+    {
+        "fr": "honorassions",
+        "def": "first-person plural imperfect subjunctive of honorer"
+    },
+    {
+        "fr": "honore",
+        "def": "inflection of honorer:"
+    },
+    {
+        "fr": "honorent",
+        "def": "third-person plural present indicative/subjunctive of honorer"
+    }
+]
